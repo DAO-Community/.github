@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[CODE OF CONDUCT](https://github.com/DAO-Community/.github/blob/main/CODE_OF_CONDUCT)
+[CODE OF CONDUCT](https://github.com/DAO-Community/.github/blob/main/CODE_OF_CONDUCT.md)
 
 <!--
 
