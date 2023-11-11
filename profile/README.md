@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[CODE OF CONDUCT](https://github.com/DAO-Community/.github/blob/main/CODE_OF_CONDUCT.md)
+
 <!--
 
 **Here are some ideas to get you started:**
