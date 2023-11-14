@@ -6,7 +6,7 @@
 
 [GOVERNANCE](https://github.com/DAO-Community/.github/blob/main/GOVERNANCE.md)
 
-[LICENSE](https://github.com/DAO-Community/.github/blob/main/LICENSE.md)
+[LICENSE](https://github.com/DAO-Community/.github/blob/main/LICENSE)
 
 <!--
 
