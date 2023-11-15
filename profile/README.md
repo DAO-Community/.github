@@ -20,3 +20,12 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+
+## type labels
+
+| label | name | emoji | description |
+| :--: | :-- | :--: | :-- |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | bug | 🐛 | Something isn't working |
+
+Add new labels to this file for tracking/reference.
