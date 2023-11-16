@@ -29,11 +29,11 @@ This GitHub Organization is a DAO Community Project.
 | render | name | emoji | color | description |
 | :- | -- |:-:|:-:| -- |
 | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | art | 🎨 | #ff7281 | Improve structure / format of the code. |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B    | zap | ⚡️ | #40c4ff | Improve performance. |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B    | fire | 🔥 | #ff9d44 | Remove code or files. |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B    | bug | 🐛 | #8cd842 | Something isn't working |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B    | ambulance | 🚑️ | #fb584a | Critical hotfix. |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B    | sparkles | ✨ | #ffe55f | Introduce new features. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | zap | ⚡️ | #40c4ff | Improve performance. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | fire | 🔥 | #ff9d44 | Remove code or files. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | bug | 🐛 | #8cd842 | Something isn't working |
+#| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | ambulance | 🚑️ | #fb584a | Critical hotfix. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | sparkles | ✨ | #ffe55f | Introduce new features. |
 | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | memo | 📝 | #00e676 | Add or update documentation. |
 | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | rocket | 🚀 | #00a9f0 | Deploy stuff. |
 | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | lipstick | 💄 | #80deea | Add or update the UI and style files. |
@@ -58,47 +58,46 @@ This GitHub Organization is a DAO Community Project.
 [comment]: | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | globe-with-meridians | 🌐 | #e7f4ff | Internationalization and localization. |
 | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | pencil2 | ✏️ | #ffce49 | Fix typos. |
 | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | poop | 💩 | #a78674 | Write bad code that needs to be improved. |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | rewind |   ⏪️   | #56d1d8 | Revert changes. |
-[comment]: | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | twisted-rightwards-arrows |   🔀    | #56d1d8 | Merge branches. |
-[comment]: | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | package |   📦️   | #fdd0ae | Add or update compiled files or packages. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | rewind | ⏪️ | #56d1d8 | Revert changes. |
+[comment]: | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | twisted-rightwards-arrows | 🔀 | #56d1d8 | Merge branches. |
+[comment]: | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | package | 📦️ | #fdd0ae | Add or update compiled files or packages. |
 [comment]: | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | alien | 👽️ | #c5e763 | Update code due to external API changes. |
 | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | truck | 🚚 | #ef584a | Move or rename resources (e.g.: files, paths, routes). |
-[comment]: | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | page-facing-up |   📄    | #d9e3e8 | Add or update license. |
-[comment]: | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | boom |   💥    | #f94f28 | Introduce breaking changes. |
-[comment]: | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | bento |   🍱    | #ff5864 | Add or update assets. |
-
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | wheelchair |   ♿️   | #00b1fb | Improve accessibility. |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | bulb |   💡    | #ffce49 | Add or update comments in source code. |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | beers |   🍻    | #fbb64b | Write code drunkenly. |
-[comment]:| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | speech-balloon |   💬    | #cedae6 | Add or update text and literals. |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | card-file-box |   🗃️    | #c5e763 | Perform database related changes. |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | loud-sound |   🔊    | #23b4d2 | Add or update logs. |
-[comment]: | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | mute |   🔇    | #e6ebef | Remove logs. |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | busts-in-silhouette |   👥    | #ffce49 | Add or update contributor(s). |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | children-crossing |   🚸    | #ffce49 | Improve user experience / usability. |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | building-construction |   🏗️    | #ffe55f | Make architectural changes. |
-[comment]: | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | iphone |   📱    | #40c4ff | Work on responsive design. |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | clown-face                |   🤡    | #ff7281 | Mock things. |
-[comment]: | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | egg                       |   🥚    | #77e856 | Add or update an easter egg. |
-[comment]: | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | see-no-evil               |   🙈    | #8bdfe7 | Add or update a .gitignore file. |
-[comment]: | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | camera-flash              |   📸    | #00a9f0 | Add or update snapshots. |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | alembic                   |   ⚗️    | #7f39fb | Perform experiments. |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | mag                       |   🔍️   | #ffe55f | Improve SEO. |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | label                     |   🏷️    | #cb63e6 | Add or update types. |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | seedling                  |   🌱    | #c5e763 | Add or update seed files. |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | triangular-flag-on-post   |   🚩    | #ffce49 | Add, update, or remove feature flags. |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | goal-net                  |   🥅    | #c7cb12 | Catch errors. |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | dizzy                     |   💫    | #ffdb3a | Add or update animations and transitions. |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | wastebasket               |   🗑️    | #d9e3e8 | Deprecate code that needs to be cleaned up. |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | passport-control          |   🛂    | #4dc6dc | Work on code related to authorization, roles and permissions. |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | adhesive-bandage |   🩹    | #fbcfb7 | Simple fix for a non-critical issue. |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | monocle-face |   🧐    | #ffe55f | Data exploration/inspection. |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | coffin |   ⚰️    | #d9e3e8 | Remove dead code. |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | test-tube |   🧪    | #fb584a | Add a failing test. |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | necktie |   👔    | #83beec | Add or update business logic. |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | stethoscope |   🩺    | #77e856 | Add or update healthcheck. |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | bricks |   🧱    | #ff6723 | Infrastructure related changes. |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | technologist |  🧑‍💻  | #86B837 | Improve developer experience. |
+[comment]: | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | page-facing-up | 📄 | #d9e3e8 | Add or update license. |
+[comment]: | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | boom | 💥 | #f94f28 | Introduce breaking changes. |
+[comment]: | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | bento | 🍱 | #ff5864 | Add or update assets. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | wheelchair | ♿️ | #00b1fb | Improve accessibility. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | bulb | 💡 | #ffce49 | Add or update comments in source code. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | beers | 🍻 | #fbb64b | Write code drunkenly. |
+[comment]:| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | speech-balloon | 💬 | #cedae6 | Add or update text and literals. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | card-file-box | 🗃️ | #c5e763 | Perform database related changes. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | loud-sound | 🔊 | #23b4d2 | Add or update logs. |
+[comment]: | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | mute | 🔇 | #e6ebef | Remove logs. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | busts-in-silhouette | 👥 | #ffce49 | Add or update contributor(s). |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | children-crossing | 🚸 | #ffce49 | Improve user experience / usability. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | building-construction | 🏗️ | #ffe55f | Make architectural changes. |
+[comment]: | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | iphone | 📱 | #40c4ff | Work on responsive design. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | clown-face | 🤡 | #ff7281 | Mock things. |
+[comment]: | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | egg | 🥚 | #77e856 | Add or update an easter egg. |
+[comment]: | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | see-no-evil | 🙈 | #8bdfe7 | Add or update a .gitignore file. |
+[comment]: | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | camera-flash | 📸 | #00a9f0 | Add or update snapshots. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | alembic | ⚗️ | #7f39fb | Perform experiments. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | mag | 🔍️ | #ffe55f | Improve SEO. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | label | 🏷️ | #cb63e6 | Add or update types. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | seedling | 🌱 | #c5e763 | Add or update seed files. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | triangular-flag-on-post | 🚩 | #ffce49 | Add, update, or remove feature flags. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | goal-net | 🥅 | #c7cb12 | Catch errors. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | dizzy | 💫 | #ffdb3a | Add or update animations and transitions. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | wastebasket | 🗑️ | #d9e3e8 | Deprecate code that needs to be cleaned up. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | passport-control | 🛂 | #4dc6dc | Work on code related to authorization, roles and permissions. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | adhesive-bandage | 🩹 | #fbcfb7 | Simple fix for a non-critical issue. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | monocle-face | 🧐 | #ffe55f | Data exploration/inspection. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | coffin | ⚰️ | #d9e3e8 | Remove dead code. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | test-tube | 🧪 | #fb584a | Add a failing test. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | necktie | 👔 | #83beec | Add or update business logic. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | stethoscope | 🩺 | #77e856 | Add or update healthcheck. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | bricks | 🧱 | #ff6723 | Infrastructure related changes. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | technologist | 🧑‍💻 | #86B837 | Improve developer experience. |
 | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | money-with-wings | 💸 | #b3c0b1 | Add sponsorships or money related infrastructure. |
 [comment]: | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | thread | 🧵 | #ffbe7b | Add or update code related to multithreading or concurrency. |
 | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | safety-vest | 🦺 | #f2ad52 | Add or update code related to validation. |
@@ -168,11 +167,11 @@ This GitHub Organization is a DAO Community Project.
 
 | render | name | emoji | color | description |
 | :- | -- |:-:|:-:| -- |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | size-1 | 🅧🅢 | 000000 | ~1-6hrs; nearly trivial, a few hours, could do more than one in a single day. |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | size-2 | 🅢 | 000000 | ~6-18hrs; not hard or time consuming, one or two work days to complete. |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | size-3 | 🅜 | 000000 | ~18-30hrs; moderate effort or complexity, several work days needed. |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | size-5 | 🅛 | 000000 | ~30-42hrs; lots of effort or complexity, most of a sprint needed to complete. |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | size-8 | 🅧🅛 | 000000 | ~18-54hrs; huge effort, high complexity, takes a whole sprint, maybe break down. |
+| https://github.com/DAO-Community/.github/labels/size-1%20%F0%9F%85%A7%F0%9F%85%A2 | size-1 | 🅧🅢 | 000000 | ~1-6hrs; nearly trivial, a few hours, could do more than one in a single day. |
+| https://github.com/DAO-Community/.github/labels/size-2%20%F0%9F%85%A2 | size-2 | 🅢 | 000000 | ~6-18hrs; not hard or time consuming, one or two work days to complete. |
+| https://github.com/DAO-Community/.github/labels/size-3%20%F0%9F%85%9C | size-3 | 🅜 | 000000 | ~18-30hrs; moderate effort or complexity, several work days needed. |
+| https://github.com/DAO-Community/.github/labels/size-5%20%F0%9F%85%9B | size-5 | 🅛 | 000000 | ~30-42hrs; lots of effort or complexity, most of a sprint needed to complete. |
+| https://github.com/DAO-Community/.github/labels/size-8%20%F0%9F%85%A7%F0%9F%85%9B | size-8 | 🅧🅛 | 000000 | ~18-54hrs; huge effort, high complexity, takes a whole sprint, maybe break down. |
 
 | render | name | emoji | color | description |
 | :- | -- |:-:|:-:| -- |
@@ -182,7 +181,7 @@ This GitHub Organization is a DAO Community Project.
 
 | render | name | emoji | color | description |
 | :- | -- |:-:|:-:| -- |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | client: desktop | 🖥️ | 000000 | ⌨ |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | client: desktop | 🖥️ | 000000 |  |
 | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | client: mobile | 📱 | 000000 |  |
 
 ## Hosting Platforms
@@ -213,7 +212,6 @@ This GitHub Organization is a DAO Community Project.
 | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | code quality | 📈 | 000000 | Improvements to the quality of the code base |
 | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | dependencies | 🔗 | 000000 | Pull requests that update a dependency file |
 | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | design | 💄 | 000000 | Requests or features related with UI |
-
 | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | feature request | 💬 | 000000 | Requests for new features |
 | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | getting started | ☝ | 000000 | Straight-forward for beginning contributors |
 | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | help wanted | 🙋 | 000000 | Contributions are welcome! |
@@ -222,7 +220,6 @@ This GitHub Organization is a DAO Community Project.
 | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | needs-triage | | 000000 | |
 | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | out of scope | ✖ | 000000 | Not in focus of this project |
 | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | performance | 🚀 | 000000 | Issues and PRs that focus on the efficiency of a feature |
-
 | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | security | 👮 | 000000 | Vulerabilities in the codebase |
 | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | spark | ⚡ | 000000 | PySpark features! |
 | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | type system | 📑 | 000000 | related to our types or visions |
