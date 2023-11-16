@@ -4,7 +4,7 @@
 
 # Labels
 
-If a render is broken, do fix the URL.
+If a render is broken, either the URL has typo or the label doesn't exist.
 
 ## Type labels
 
