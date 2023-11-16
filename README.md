@@ -77,6 +77,7 @@
 | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | Agile: Story | ⚁ | #3E4B9E | A theme of work that contain tasks |
 | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | Agile: Task | ⚀ | #3E4B9E | A work task |
 
+---
 
 ### Status
 To be used in conjunction with [Determined](https://github.com/DAO-Community/.github/edit/main/README.md#Determined) labels.
@@ -84,8 +85,9 @@ To be used in conjunction with [Determined](https://github.com/DAO-Community/.gi
 | render | name | emoji | color | description |
 | :- | -- |:-:|:-:| -- |
 | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | Status: TBD | | 000000 | Something is yet To-Be-Determined. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | Status: TODO | | 000000 | Something is up To-Do. |
 | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | Status: WIP |  | 000000 | Something is in progress. |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | Status: Done | | 000000 | Something is completed/finished. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | Status: DONE | | 000000 | Something is completed/finished. |
 
 ---
 
