@@ -3,6 +3,9 @@
 **📄 File under 🏗 construction.**
 
 # Labels
+
+If a render is broken, do fix the URL.
+
 ## Type labels
 
 ## Hosting Platforms
