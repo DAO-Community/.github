@@ -102,7 +102,121 @@ This GitHub Organization is a DAO Community Project.
 | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | thread                    |   🧵    | #ffbe7b | Add or update code related to multithreading or concurrency. |
 | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | safety-vest               |   🦺    | #f2ad52 | Add or update code related to validation. |
 
+| render | name | emoji | color | description |
+| :- | -- |:-:|:-:| -- |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| good first issue | | #7057ff | Good for newcomers |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| help wanted | | #008672 | Extra attention is needed |
 
+| render | name | emoji | color | description |
+| :- | -- |:-:|:-:| -- |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| priority: critical | | #b60205 |  |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| priority: high | | #d93f0b |  |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| priority: low | | #0e8a16 |  |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| priority: medium | | #fbca04 |  |
+
+| render | name | emoji | color | description |
+| :- | -- |:-:|:-:| -- |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| status: can't reproduce | | #fec1c1 |  |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| status: confirmed | | #215cea |  |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| status: duplicate | | #cfd3d7 | This issue or pull request already exists |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| status: needs information | | #fef2c0 |  |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| status: wont do/fix | | #eeeeee | This will not be worked on |
+
+| render | name | emoji | color | description |
+| :- | -- |:-:|:-:| -- |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| type: discussion | | #d4c5f9 |  |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| type: documentation | | #006b75 |  |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| type: enhancement | | #84b6eb |  |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| type: epic | | #3E4B9E | A theme of work that contain sub-tasks |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| type: feature request | | #fbca04 | New feature or request |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| type: question | | #d876e3 | Further information is requested |
+
+| render | name | emoji | color | description |
+| :- | -- |:-:|:-:| -- |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| OS: Windows | | 000000 | Specific to Windows environments |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| OS: OSX | | 000000 | Specific to Mac environments |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| OS: Linux | | 000000 | Specific to Linux environments |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| OS: Android | | 000000 | Specific to Android environments |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| OS: iOS | | 000000 | Specific to iOS environments |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| OS: Web | | 000000 | Specific to Web environments |
+
+| render | name | emoji | color | description |
+| :- | -- |:-:|:-:| -- |
+| Uncategorized | | 000000 | Labeling of this item has not yet occurred |
+| On Hold | | 000000 | The pull request is blocked from being merged |
+
+| render | name | emoji | color | description |
+| :- | -- |:-:|:-:| -- |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| TBD: Blocked Upstream | | 000000 | Something out of our hands is blocking this change |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| TBD: Needs Design | | 000000 |  |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| TBD: Needs Discussion | | 000000 |  |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| TBD: Needs Spec | | 000000 |  |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| TBD: Quick Win | | 000000 | A quick change with a potentially big impact for users |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| TBD: Someday | | 000000 |  |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| TBD: Tech Debt | | 000000 | We should probably clean this up... |
+
+| render | name | emoji | color | description |
+| :- | -- |:-:|:-:| -- |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| WIP: Building | | 000000 |  |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| WIP: Needs Testing | | 000000 |  |
+
+| render | name | emoji | color | description |
+| :- | -- |:-:|:-:| -- |
+| Ready for Review | | 000000 |  |
+| more-information-needed | | 000000 |  |
+
+| render | name | emoji | color | description |
+| :- | -- |:-:|:-:| -- |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| size-1 XS | | 000000 | ~1-6hrs; nearly trivial, a few hours, could do more than one in a single day. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| size-2 S | | 000000 | ~6-18hrs; not hard or time consuming, one or two work days to complete. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| size-3 M | | 000000 | ~18-30hrs; moderate effort or complexity, several work days needed. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| size-5 L | | 000000 | ~30-42hrs; lots of effort or complexity, most of a sprint needed to complete. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| size-8 XL | | 000000 | ~18-54hrs; huge effort, high complexity, takes a whole sprint, maybe break down. |
+
+| render | name | emoji | color | description |
+| :- | -- |:-:|:-:| -- |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| Status: Abandoned | | 000000 |  |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| Status: Completed | | 000000 |  |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| Status: In Progress | | 000000 |  |
+
+| render | name | emoji | color | description |
+| :- | -- |:-:|:-:| -- |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| client: 💻 desktop | | 000000 |  |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| client: 🤖🍏 mobile | | 000000 |  |
+
+| render | name | emoji | color | description |
+| :- | -- |:-:|:-:| -- |
+| github_actions | | 000000 | Pull requests that update GitHub Actions code |
+| expertise wanted | | 000000 | Extra expertise is needed for implementation |
+| suggestion | | 000000 | Feature suggestion |
+| admin | | 000000 | Managing a Mastodon instance |
+| RFC | | 000000 | Indicates that this PR is a Request For Comments |
+
+| render | name | emoji | color | description |
+| :- | -- |:-:|:-:| -- |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| Bump Version: major | | | 000000 |  |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| Bump Version: minor | | | 000000 |  |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B| Bump Version: patch | | | 000000 |  |
+
+| render | name | emoji | color | description |
+| :- | -- |:-:|:-:| -- |
+| deferred | | 000000 | issue won't be considered in the forseeable future |
+| code quality | 📈 | 000000 | Improvements to the quality of the code base |
+| dependencies | 🔗 | 000000 | Pull requests that update a dependency file |
+| design | 💄 | 000000 | Requests or features related with UI |
+| documentation | 📖 | 000000 | Inform others how to use it |
+| feature request | 💬 | 000000 | Requests for new features |
+| getting started | ☝ | 000000 | Straight-forward for beginning contributors |
+| help wanted | 🙋 | 000000 | Contributions are welcome! |
+| information requested | ❔ | 000000 | Cannot reproduce, waiting for minimum reproduction details. |
+| maintance | 🛠️ | 000000 | Code refactoring, technical debt, testing or release related. |
+| needs-triage | | 000000 | |
+| out of scope | ✖ | 000000 | Not in focus of this project |
+| performance | 🚀 | 000000 | Issues and PRs that focus on the efficiency of a feature |
+| question/discussion | ❓ | 000000 | Open dicussion |
+| security | 👮 | 000000 | Vulerabilities in the codebase |
+| spark | ⚡ | 000000 | PySpark features! |
+| type system | 📑 | 000000 | related to our types or visions |
 
 Add new labels to this file for tracking/reference.
 
