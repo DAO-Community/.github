@@ -189,7 +189,7 @@ This GitHub Organization is a DAO Community Project.
 
 | render | name | emoji | color | description |
 | :- | -- |:-:|:-:| -- |
-| https://github.com/DAO-Community/.github/labels/GitHub%F0%9F%90%88%E2%80%8D%E2%AC%9B | GitHub | 🐈‍⬛ | #000000 | GitHub related |
+| https://github.com/DAO-Community/.github/labels/GitHub%20%F0%9F%90%88%E2%80%8D%E2%AC%9B | GitHub | 🐈‍⬛ | #000000 | GitHub related |
 | https://github.com/DAO-Community/.github/labels/GitLab%20%F0%9F%A6%8A | GitLab | 🦊 | #554488 | GitLab related |
 
 | render | name | emoji | color | description |
