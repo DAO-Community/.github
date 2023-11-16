@@ -110,7 +110,7 @@ This GitHub Organization is a DAO Community Project.
 
 | render | name | emoji | color | description |
 | :- | -- |:-:|:-:| -- |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | priority: critical | 🚑 | #b60205 |  |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | priority: critical | 🚁 | #b60205 |  |
 | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | priority: high | 🚔 | #d93f0b |  |
 | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | priority: medium | 👮 | #fbca04 |  |
 | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | priority: low | ☎️ | #0e8a16 |  |
@@ -185,10 +185,12 @@ This GitHub Organization is a DAO Community Project.
 | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | client: desktop | 🖥️ | 000000 | ⌨ |
 | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | client: mobile | 📱 | 000000 |  |
 
+## Hosting Platforms
+
 | render | name | emoji | color | description |
 | :- | -- |:-:|:-:| -- |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | GitHub | 🐈‍⬛ | #000000 | GitHub related |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | GitLab | 🦊 | #554488 | GitLab related |
+| https://github.com/DAO-Community/.github/labels/GitHub%F0%9F%90%88%E2%80%8D%E2%AC%9B | GitHub | 🐈‍⬛ | #000000 | GitHub related |
+| https://github.com/DAO-Community/.github/labels/GitLab%20%F0%9F%A6%8A | GitLab | 🦊 | #554488 | GitLab related |
 
 | render | name | emoji | color | description |
 | :- | -- |:-:|:-:| -- |
