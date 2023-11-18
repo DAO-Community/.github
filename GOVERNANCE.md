@@ -6,15 +6,15 @@
 | Role | Entity/Member(s) |
 | ----------------------- | -------------------------------------- |
 | Corporate Maintainer | MDI Novare |
-| BDFL @bdfl | For Nomination by Steering Committee |
-| Steering Committee @steering-committee | [Dan](https://github.com/joshua-lagasca)<br>[Jorel](https://github.com/joshua-lagasca)<br>[Jepe](https://github.com/joshua-lagasca) |
-| Moderators @moderators | [Dan](https://github.com/joshua-lagasca)<br>[Dan](https://github.com/joshua-lagasca) |
+| BDFL [@bdfl](https://github.com/orgs/DAO-Community/teams/bdfl) | For Nomination by Steering Committee |
+| Steering Committee [@steering-committee](https://github.com/orgs/DAO-Community/teams/steering-committee) | [Dan](https://github.com/joshua-lagasca)<br>[Jorel](https://github.com/joshua-lagasca)<br>[Jepe](https://github.com/joshua-lagasca) |
+| Moderators [@moderators](https://github.com/orgs/DAO-Community/teams/moderators) | [Dan](https://github.com/joshua-lagasca)<br>[Dan](https://github.com/joshua-lagasca) |
 
 | Role | Entity/Member(s) |
 | -- | -- |
-| Data Admin @data-admin | Employees in Data Admin Pillar |
-| Data Engineering @data-engineering | Employees in Data Engineering Pillar |
-| Data Science @data-science | Employees in Data Science Pillar |
+| Data Admin [@data-admin](https://github.com/orgs/DAO-Community/teams/data-admin) | Employees in Data Admin Pillar |
+| Data Engineering [@data-engineering](https://github.com/orgs/DAO-Community/teams/data-engineering) | Employees in Data Engineering Pillar |
+| Data Science [@data-science](https://github.com/orgs/DAO-Community/teams/data-science) | Employees in Data Science Pillar |
 
 ### Notifications
 Configured to be enabled only on specific/atomized teams to avoid causing an accidental email thread bomb.
