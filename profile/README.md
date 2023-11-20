@@ -9,9 +9,11 @@
 
 [comment]: ^^^_Banner_^^^
 
-This GitHub Organization is a `Project: DAO Community` project.
+From **Project: DAO Community**, this GitHub Organization is a developer community space <br>
+for the employees of [<img src="https://raw.githubusercontent.com/DAO-Community/Brand-Assets/main/One%20MDI%20Novare%20Logos/MDINovarelogoNew_white.png?token=GHSAT0AAAAAACJTRF5LLG65GG7NZJLRX4MCZK3DIKA" alt="MDI Novare logo white text" width="100" />](https://mdi.net.ph) 
+ **Data Analytics Organzization (DAO)**.
 
-## DAO Community Projects:
+## `Project: DAO Community` projects:
 * Git Hosting Platform Survey & Report (Git Team)
 * GitHub Organization (Git Team)
 * Matrix Network (Fedi Team)
