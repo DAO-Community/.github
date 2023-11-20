@@ -2,7 +2,7 @@
 
 [![⚖️ License: MIT](https://img.shields.io/badge/⚖️%20License-MIT-yellow.svg?style=plastic)](https://github.com/DAO-Community/.github/blob/main/LICENSE) ![](https://img.shields.io/badge/docs-ongoing-darkgreen?style=plastic) [![google developer documentation style guide](https://custom-icon-badges.demolab.com/badge/dev%20docu%20style%20guide-Google%20-DB4437?style=plastic&logo=google&logoColor=F4B400&labelColor=4285F4)](https://developers.google.com/style/) [![SemVer 2.0.0](https://img.shields.io/badge/SemVer-2.0.0-3e4451?style=plastic&logo=Semver)](https://www.semver.org) [![Conventional Commits 1.0.0](https://img.shields.io/badge/Conventional%20Commits-1.0.0-f46574?style=plastic&logo=conventionalcommits)](https://www.conventionalcommits.org/en/v1.0.0/) [![gitmoji:😜 😍](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67?style=plastic)](https://gitmoji.dev/)
 
-<p style="color:#FF0000"; align="center";> Welcome to the</p>
+<p align="center";> Welcome to the</p>
 <h1 align="center">👨‍💻 𝙳𝙰𝙾 𝙲𝚘𝚖𝚖𝚞𝚗𝚒𝚝𝚢 👩‍💻</h1>
 
 This GitHub Organization is a `Project: DAO Community` project.
@@ -23,6 +23,17 @@ Methodology: Waterfall
 [GOVERNANCE](https://github.com/DAO-Community/.github/blob/main/GOVERNANCE.md)
 
 [LICENSE](https://github.com/DAO-Community/.github/blob/main/LICENSE)
+
+# vvv WIP vvv
+
+---
+
+# Official Brand Colors
+
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15) `#f03c15`
+- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
+- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
+
 
 <!--
 
