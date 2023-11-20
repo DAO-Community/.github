@@ -2,6 +2,9 @@
 
 [![⚖️ License: MIT](https://img.shields.io/badge/⚖️%20License-MIT-yellow.svg?style=plastic)](https://github.com/DAO-Community/.github/blob/main/LICENSE) ![](https://img.shields.io/badge/docs-ongoing-darkgreen?style=plastic) [![google developer documentation style guide](https://custom-icon-badges.demolab.com/badge/dev%20docu%20style%20guide-Google%20-DB4437?style=plastic&logo=google&logoColor=F4B400&labelColor=4285F4)](https://developers.google.com/style/) [![SemVer 2.0.0](https://img.shields.io/badge/SemVer-2.0.0-3e4451?style=plastic&logo=Semver)](https://www.semver.org) [![Conventional Commits 1.0.0](https://img.shields.io/badge/Conventional%20Commits-1.0.0-f46574?style=plastic&logo=conventionalcommits)](https://www.conventionalcommits.org/en/v1.0.0/) [![gitmoji:😜 😍](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67?style=plastic)](https://gitmoji.dev/)
 
+<p style="color:#FF0000"; align="center";> Welcome to the</p>
+<h1 align="center">👨‍💻 𝙳𝙰𝙾 𝙲𝚘𝚖𝚖𝚞𝚗𝚒𝚝𝚢 👩‍💻</h1>
+
 This GitHub Organization is a `Project: DAO Community` project.
 
 ## DAO Community Projects:
