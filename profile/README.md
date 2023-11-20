@@ -4,7 +4,7 @@
 
 [comment]: vvv_Banner_vvv
 
-<p align="center";> Welcome to the</p>
+<p align="center";><b>Welcome to the</b></p>
 <h1 align="center">👨‍💻 𝙳𝙰𝙾 𝙲𝚘𝚖𝚖𝚞𝚗𝚒𝚝𝚢 👩‍💻</h1>
 
 [comment]: ^^^_Banner_^^^
