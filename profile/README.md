@@ -9,16 +9,16 @@
 
 [comment]: ^^^_Banner_^^^
 
-From **Project: DAO Community**, this GitHub Organization is a developer community space <br>
-for the employees of [<img src="https://raw.githubusercontent.com/DAO-Community/Brand-Assets/main/One%20MDI%20Novare%20Logos/MDINovarelogoNew_white.png?token=GHSAT0AAAAAACJTRF5LLG65GG7NZJLRX4MCZK3DIKA" alt="MDI Novare logo white text" width="100" />](https://mdi.net.ph) 
- **Data Analytics Organzization (DAO)**.
+From 𝙿𝚛𝚘𝚓𝚎𝚌𝚝: 𝙳𝙰𝙾 𝙲𝚘𝚖𝚖𝚞𝚗𝚒𝚝𝚢, this GitHub Organization is a developer community space <br>
+for the employees of [<img src="https://raw.githubusercontent.com/DAO-Community/Brand-Assets/main/One%20MDI%20Novare%20Logos/MDINovarelogoNew_white.png?token=GHSAT0AAAAAACJTRF5LLG65GG7NZJLRX4MCZK3DIKA" alt="MDI Novare logo white text" width="100" />](https://mdi.net.ph)  **Data Analytics Organzization (DAO)**.
 
-## `Project: DAO Community` projects:
+## `𝙿𝚛𝚘𝚓𝚎𝚌𝚝: 𝙳𝙰𝙾 𝙲𝚘𝚖𝚖𝚞𝚗𝚒𝚝𝚢` initiatives:
 * Git Hosting Platform Survey & Report (Git Team)
 * GitHub Organization (Git Team)
 * Matrix Network (Fedi Team)
 * Website via GitHub Pages (Web Team)
 * Tech Stack Survey & Report (Git Team)
+* 2024 Summits/Conferences/Convention (Steering Committee)
 
 Methodology: Waterfall
 
