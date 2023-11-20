@@ -11,6 +11,8 @@
 
 From 𝙿𝚛𝚘𝚓𝚎𝚌𝚝: 𝙳𝙰𝙾 𝙲𝚘𝚖𝚖𝚞𝚗𝚒𝚝𝚢, this GitHub Organization is a developer community space <br>
 for the employees of [<img src="MDINovarelogo_new_fc.png" alt="MDI Novare logo" width="100" />](https://mdi.net.ph)  **Data Analytics Organzization (DAO)**.
+for the employees of [<img src="https://github.com/DAO-Community/.github/blob/fed726433968b2e7927870baad9815ce702342d3/profile/MDINovarelogo_new_fc.png" alt="MDI Novare logo" width="100" />](https://mdi.net.ph)  **Data Analytics Organzization (DAO)**.
+
 
 ## `𝙿𝚛𝚘𝚓𝚎𝚌𝚝: 𝙳𝙰𝙾 𝙲𝚘𝚖𝚖𝚞𝚗𝚒𝚝𝚢` initiatives:
 * Git Hosting Platform Survey & Report (Git Team)
