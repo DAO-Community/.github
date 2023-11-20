@@ -7,7 +7,7 @@
 | ----------------------- | -------------------------------------- |
 | Corporate Maintainer | MDI Novare |
 | BDFL [@bdfl](https://github.com/orgs/DAO-Community/teams/bdfl) | For Nomination by Steering Committee |
-| Steering Committee [@steering-committee](https://github.com/orgs/DAO-Community/teams/steering-committee) | [Dan](https://github.com/joshua-lagasca)<br>[Jorel](https://github.com/joshua-lagasca)<br>[Jepe](https://github.com/joshua-lagasca) |
+| Steering Committee [@steering-committee](https://github.com/orgs/DAO-Community/teams/steering-committee) | [Joshua Daniel A. Lagasca (Dan)](https://github.com/joshua-lagasca)<br>[Corleone Jorel G. Zaldarriaga (Jorel)](https://github.com/cjzaldarriaga)<br>[John Paul Soriano (Jepe)](https://github.com/jpsoriano) |
 | Moderators [@moderators](https://github.com/orgs/DAO-Community/teams/moderators) | [Dan](https://github.com/joshua-lagasca)<br>[Dan](https://github.com/joshua-lagasca) |
 
 | Role | Entity/Member(s) |
@@ -32,12 +32,20 @@ Articles:
 | Data Engineering | ☑️ |
 | Data Science | ☑️ |
 
+### Security Team
+The team members are kept secret within the Steering Committee.
+Do not hold nominations for positions.
+The Steering Committee will reach out to potential members.
+Members of this team is expected to hold their positions secret to the rest of the organization.
+Violation will result to 
+Disclosure of one or more Security Team members will cause for punishment and removal from the `Project: DAO Community` projects.
+
 
 ### Airflow Initiative
 
 | Role                    | Entity/Member(s)                       |
 | ----------------------- | -------------------------------------- |
-| Maintainers             | [Dan](https://github.com/joshua-lagasca)<br>[Dan](https://github.com/joshua-lagasca) |
+| Maintainers             | [Joshua Daniel A. Lagasca (Dan)](https://github.com/joshua-lagasca)<br>[Corleone Jorel G. Zaldarriaga (Jorel)](https://github.com/cjzaldarriaga) |
 | Working Group           | [Dan](https://github.com/joshua-lagasca)<br>[Dan](https://github.com/joshua-lagasca) |
 
 ### DevOps Initiative
@@ -48,13 +56,6 @@ Articles:
 | Working Group           | [Dan](https://github.com/joshua-lagasca)<br>[Dan](https://github.com/joshua-lagasca) |
 
 ### CloudOps Initiative
-
-| Role                    | Entity/Member(s)                       |
-| ----------------------- | -------------------------------------- |
-| Maintainers             | [Dan](https://github.com/joshua-lagasca)<br>[Dan](https://github.com/joshua-lagasca) |
-| Working Group           | [Dan](https://github.com/joshua-lagasca)<br>[Dan](https://github.com/joshua-lagasca) |
-
-### SecOps Initiative
 
 | Role                    | Entity/Member(s)                       |
 | ----------------------- | -------------------------------------- |
