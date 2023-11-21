@@ -132,6 +132,9 @@ To be used in conjunction with [Determined](https://github.com/DAO-Community/.gi
 | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | State: Suspended | | 000000 | Something is suspended. |
 | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | State: Abandoned | | 000000 | Something is abandoned. |
 | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | State: Reincarnated | | 000000 | Something is reincarnated. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | State: Deprecated | | 000000 | Something is deprecated. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | State: Retired | | 000000 | Something is retired. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | State: Experimental | | 000000 | Something is experimental. |
 
 ### Active
 For issues, must be in open status.
@@ -149,6 +152,14 @@ When a project no longer needs development, it must be permanently sealed and ta
 ### Reincarnated
 Abandoned projects may be referenced or rebuilt as a new project. Reincarnated projects must reference the Abandoned project and must follow its license.
 This state is short-lived and must be used only for initial setup of the project. Once active development has begun, state must be moved to Active.
+
+### Deprecated
+Once a project is deprecated, it is suspended and abandoned.
+
+### Retired
+Once a project is retired, it is suspended and abandoned.
+
+### Experimental
 
 ## State Flow (WIP)
 
@@ -196,8 +207,30 @@ Orphaned >> Maintained
 
 ---
 
+## Release
 
+| render | name | emoji | color | description |
+| :- | -- |:-:|:-:| -- |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | Release: Dev | | 000000 | Something is stable. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | Release: Nightly | | 000000 | Something is stable. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | Release: Alpha | | 000000 | Something is stable. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | Release: Beta | | 000000 | Something is stable. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | Release: RC | | 000000 | Something is stable. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | Release: Stable | | 000000 | Something is stable. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | Release: GA | | 000000 | Something is stable. |
 
+### Dev
+### Nightly
+### Alpha
+### Beta
+### RC
+### Stable
+### GA
+
+---
+---
+
+# vvv WIP vvv
 
 | render | name | emoji | color | description |
 | :- | -- |:-:|:-:| -- |
