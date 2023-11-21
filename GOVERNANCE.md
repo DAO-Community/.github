@@ -8,7 +8,7 @@
 | Corporate Maintainer | MDI Novare |
 | BDFL [@bdfl](https://github.com/orgs/DAO-Community/teams/bdfl) | For Nomination by Steering Committee |
 | Steering Committee [@steering-committee](https://github.com/orgs/DAO-Community/teams/steering-committee) | [Joshua Daniel A. Lagasca (Dan)](https://github.com/joshua-lagasca)<br>[Corleone Jorel G. Zaldarriaga (Jorel)](https://github.com/cjzaldarriaga)<br>[John Paul Soriano (Jepe)](https://github.com/jpsoriano) |
-| Moderators [@moderators](https://github.com/orgs/DAO-Community/teams/moderators) | [Dan](https://github.com/joshua-lagasca)<br>[Dan](https://github.com/joshua-lagasca) |
+| Moderators [@moderators](https://github.com/orgs/DAO-Community/teams/moderators) | [Joshua Daniel A. Lagasca (Dan)](https://github.com/joshua-lagasca)<br>[Corleone Jorel G. Zaldarriaga (Jorel)](https://github.com/cjzaldarriaga)<br>[John Paul Soriano (Jepe)](https://github.com/jpsoriano) |
 
 | Role | Entity/Member(s) |
 | -- | -- |
