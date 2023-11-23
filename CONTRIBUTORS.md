@@ -40,7 +40,9 @@ Disclosure of one or more Security Team members will cause for punishment and re
 
 ---
 
-## Airflow Initiative
+## Special Interest Groups (SIGs)
+
+### Airflow Initiative
 
 #### Maintainers
 
@@ -83,17 +85,4 @@ Disclosure of one or more Security Team members will cause for punishment and re
 
 - [Octocat](https://github.com/Octocat)
 
-## Special Interest Groups (SIGs)
-
----
-
-## SIG I
-
-#### Maintainers
-
-- [Octocat](https://github.com/Octocat)
-
-#### Working Group (WG)
-
-- [Octocat](https://github.com/Octocat)
-
+[comment]: EOF
