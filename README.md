@@ -31,6 +31,18 @@ Note: License files must be added to individual repositories so the file will be
 
 ---
 
+# Terminologies
+
+# For-Community Project
+
+Activites/Projects **for** the `Project: DAO Community`.
+
+# Community Project
+
+Activites/Projects **by** the `Project: DAO Community`.
+
+---
+
 # Labels
 
 If a render is broken, either the URL has typo or the label doesn't exist.
