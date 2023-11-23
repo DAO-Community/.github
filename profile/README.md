@@ -21,7 +21,7 @@ for the employees of [<img src="https://github.com/DAO-Community/Brand-Assets/bl
 * Matrix Network (Fedi Team)
 * Website via GitHub Pages (Web Team)
 * Tech Stack Survey & Report (Git Team)
-* 2024 Summits/Conferences/Convention (Steering Committee)
+* 2024 Summits/Conferences/Convention (Steering Committee & Volunteers)
 
 Methodology: Waterfall
 
