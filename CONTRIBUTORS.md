@@ -6,7 +6,7 @@
 
 - [<img src="https://github.com/DAO-Community/Brand-Assets/blob/79d830a22a345625db08b2ed0274261ce6da6f1f/One%20MDI%20Novare%20Logos/MDINovarelogo_new_fc.png" alt="MDI Novare logo" width="200" />](https://mdi.net.ph)
 
-# BDFL [@bdfl](https://github.com/orgs/DAO-Community/teams/bdfl)
+# Benevolent Dictator [@bdfl](https://github.com/orgs/DAO-Community/teams/bdfl)
 
 - (For Nomination by the Steering Committee or appointed by the Corporate Maintainer)
 
@@ -14,7 +14,7 @@
 
 - [Joshua Daniel A. Lagasca (Dan)](https://github.com/joshua-lagasca)
 - [Corleone Jorel G. Zaldarriaga (Jorel)](https://github.com/cjzaldarriaga)
-- [John Paul Soriano (Jepe)](https://github.com/jpsoriano)
+- [John Paul Soriano (Jepe)](https://github.com/jpsoriano) (Chair)
 
 # Moderators [@moderators](https://github.com/orgs/DAO-Community/teams/moderators)
 
