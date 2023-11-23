@@ -6,9 +6,17 @@
 | Role | Entity/Member(s) |
 | ----------------------- | -------------------------------------- |
 | Corporate Maintainer | MDI Novare |
-| BDFL [@bdfl](https://github.com/orgs/DAO-Community/teams/bdfl) | For Nomination by Steering Committee |
+| BDFL [@bdfl](https://github.com/orgs/DAO-Community/teams/bdfl) | For Nomination by Steering Committee or appointment by the Corporate Maintainer |
 | Steering Committee [@steering-committee](https://github.com/orgs/DAO-Community/teams/steering-committee) | [Joshua Daniel A. Lagasca (Dan)](https://github.com/joshua-lagasca)<br>[Corleone Jorel G. Zaldarriaga (Jorel)](https://github.com/cjzaldarriaga)<br>[John Paul Soriano (Jepe)](https://github.com/jpsoriano) |
 | Moderators [@moderators](https://github.com/orgs/DAO-Community/teams/moderators) | [Joshua Daniel A. Lagasca (Dan)](https://github.com/joshua-lagasca)<br>[Corleone Jorel G. Zaldarriaga (Jorel)](https://github.com/cjzaldarriaga)<br>[John Paul Soriano (Jepe)](https://github.com/jpsoriano) |
+
+| Role | Entity/Member(s) |
+| -- | -- |
+| Data Admin [@data-admin](https://github.com/orgs/DAO-Community/teams/data-admin) | Employees in Data Admin Pillar |
+| Data Engineering [@data-engineering](https://github.com/orgs/DAO-Community/teams/data-engineering) | Employees in Data Engineering Pillar |
+| Data Science [@data-science](https://github.com/orgs/DAO-Community/teams/data-science) | Employees in Data Science Pillar |
+
+# Volunteers
 
 | Role | Entity/Member(s) |
 | -- | -- |
