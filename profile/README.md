@@ -14,7 +14,8 @@ for the employees of [<img src="https://github.com/DAO-Community/Brand-Assets/bl
 
 ---
 
-## `𝙿𝚛𝚘𝚓𝚎𝚌𝚝: 𝙳𝙰𝙾 𝙲𝚘𝚖𝚖𝚞𝚗𝚒𝚝𝚢` initiatives:
+## For-Community Projects:
+
 * Git Hosting Platform Survey & Report (Git Team)
 * GitHub Organization (Git Team)
 * Matrix Network (Fedi Team)
