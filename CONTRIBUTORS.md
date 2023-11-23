@@ -12,8 +12,10 @@
 
 This organization follows a BDFL Governance Structure.
 
-`Under this structure, one person (usually the initial author of the project) has final say on all major project decisions. Python is a classic example. Smaller projects are probably BDFL by default, because there are only one or two maintainers. A project that originated at a company might also fall into the BDFL category.`
-- [Open Source Guides on BDFL](https://opensource.guide/leadership-and-governance/#what-are-some-of-the-common-governance-structures-for-open-source-projects)
+> Under this structure, one person (usually the initial author of the project) has final say on all major project decisions. [Python](https://github.com/python) is a classic example. Smaller projects are probably BDFL by default, because there are only one or two maintainers. A project that originated at a company might also fall into the BDFL category.
+> &mdash; <cite>[Open Source Guides on BDFL][1]</cite>
+
+[1]: https://opensource.guide/leadership-and-governance/#what-are-some-of-the-common-governance-structures-for-open-source-projects
 
 See [Benevolent Dictator Governance Model](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel) for more information.
 
