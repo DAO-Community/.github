@@ -1,16 +1,12 @@
 📄 File under 🏗 construction.
 
 ## Entities of the Community
-### Community Project
+### For-Community
 
 - Corporate Maintainer: MDI Novare
-- BDFL [@bdfl](https://github.com/orgs/DAO-Community/teams/bdfl)
-  - *For Nomination by Steering Committee or appointment by the Corporate Maintainer
-- Steering Committee [@steering-committee](https://github.com/orgs/DAO-Community/teams/steering-committee)
+- BDFL [@bdfl](https://github.com/orgs/DAO-Community/teams/bdfl) [🔗](#bdfl-benevolent-dictator-for-life)
+- Steering Committee [@steering-committee](https://github.com/orgs/DAO-Community/teams/steering-committee) [🔗](#steering-committee)
 - Advisory Council [@advisory_council](https://github.com/orgs/DAO-Community/teams/advisory_council)
-- Technical Committees
-  - Git Team [@git](https://github.com/orgs/DAO-Community/teams/git)
-    - Maintainers/Leads for each SIG
 - Moderators [@moderators](https://github.com/orgs/DAO-Community/teams/moderators)
 - Volunteers [@volunteers](https://github.com/orgs/DAO-Community/teams/volunteers)
 - Security Team [@security](https://github.com/orgs/DAO-Community/teams/security)
@@ -20,6 +16,53 @@
 - Data Admin [@data-admin](https://github.com/orgs/DAO-Community/teams/data-admin)
 - Data Engineering [@data-engineering](https://github.com/orgs/DAO-Community/teams/data-engineering)
 - Data Science [@data-science](https://github.com/orgs/DAO-Community/teams/data-science)
+
+### Project Codebases
+- Technical Committees
+  - Git Team [@git](https://github.com/orgs/DAO-Community/teams/git)
+    - Maintainers/Leads for each SIG
+
+---
+
+# BDFL (Benevolent Dictator For Life)
+[@bdfl](https://github.com/orgs/DAO-Community/teams/bdfl)
+
+This organization follows a BDFL Governance Structure.
+
+> Under this structure, one person (usually the initial author of the project) has final say on all major project decisions. [Python](https://github.com/python) is a classic example. Smaller projects are probably BDFL by default, because there are only one or two maintainers. A project that originated at a company might also fall into the BDFL category.
+> &mdash; <cite>[Open Source Guides on BDFL][1]</cite>
+
+[1]: https://opensource.guide/leadership-and-governance/#what-are-some-of-the-common-governance-structures-for-open-source-projects
+
+See [Benevolent Dictator Governance Model](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel) for more information.
+
+## Responsibilities
+
+This role has the ability to veto against the Steering Committee.
+
+# Steering Committee
+[@steering-committee](https://github.com/orgs/DAO-Community/teams/steering-committee)
+
+## Responsibilities
+
+The members of this committee are given 2 abilities: lobby and vote.
+
+Members may lobby amongst the committee members their vote.
+Members may vote amongst the committee members their vote.
+
+This committee must always be at least 3 individuals, and never in an even count.
+In case the committee is reduced to an even count, a priority by residence takes precedence,
+and the member with the least residence shall be withdrawn the ability to vote but not the ability to lobby.
+
+The Chairman of this committee must lead the delegation between the committee members.
+The Chairman must call and collect the votes of the committee members.
+The Chairman must represent the committee to the community.
+The role of Chairman is nominated and voted amongst the committee members.
+
+Decisions are made either unanimously or by rule of majority.
+A rule of majority is recognized by a vote percentage of at least **70%** of the total committee members.
+
+
 
 ### Notifications
 Configured to be enabled only on specific/atomized teams to avoid causing an accidental email thread bomb.
