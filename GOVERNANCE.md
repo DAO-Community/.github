@@ -6,25 +6,28 @@
 - Corporate Maintainer: MDI Novare
 - BDFL [@bdfl](https://github.com/orgs/DAO-Community/teams/bdfl) [🔗](#bdfl-benevolent-dictator-for-life)
 - Steering Committee [@steering-committee](https://github.com/orgs/DAO-Community/teams/steering-committee) [🔗](#steering-committee)
-- Advisory Council [@advisory_council](https://github.com/orgs/DAO-Community/teams/advisory_council)
-- Moderators [@moderators](https://github.com/orgs/DAO-Community/teams/moderators)
-- Volunteers [@volunteers](https://github.com/orgs/DAO-Community/teams/volunteers)
-- Security Team [@security](https://github.com/orgs/DAO-Community/teams/security)
+- Advisory Council [@advisory_council](https://github.com/orgs/DAO-Community/teams/advisory_council) [🔗](#advisory-council)
+- Moderators [@moderators](https://github.com/orgs/DAO-Community/teams/moderators) [🔗](#moderators)
+- Volunteers [@volunteers](https://github.com/orgs/DAO-Community/teams/volunteers) [🔗](#volunteers)
+- Security Team [@security](https://github.com/orgs/DAO-Community/teams/security) [🔗](#security-team)
 
 ### Pillars
 
-- Data Admin [@data-admin](https://github.com/orgs/DAO-Community/teams/data-admin)
-- Data Engineering [@data-engineering](https://github.com/orgs/DAO-Community/teams/data-engineering)
-- Data Science [@data-science](https://github.com/orgs/DAO-Community/teams/data-science)
+- Data Admin [@data-admin](https://github.com/orgs/DAO-Community/teams/data-admin) [🔗](#data-admin)
+- Data Engineering [@data-engineering](https://github.com/orgs/DAO-Community/teams/data-engineering) [🔗](#data-engineering)
+- Data Science [@data-science](https://github.com/orgs/DAO-Community/teams/data-science) [🔗](#data-science)
 
 ### Project Codebases
-- Technical Committees
+- Technical Committees [🔗](#technical-committee)
   - Git Team [@git](https://github.com/orgs/DAO-Community/teams/git)
     - Maintainers/Leads for each SIG
 
 ---
+---
 
-# BDFL (Benevolent Dictator For Life)
+# Responsiblities
+
+## BDFL (Benevolent Dictator For Life)
 [@bdfl](https://github.com/orgs/DAO-Community/teams/bdfl)
 
 This organization follows a BDFL Governance Structure.
@@ -36,14 +39,12 @@ This organization follows a BDFL Governance Structure.
 
 See [Benevolent Dictator Governance Model](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel) for more information.
 
-## Responsibilities
-
 This role has the ability to veto against the Steering Committee.
 
-# Steering Committee
-[@steering-committee](https://github.com/orgs/DAO-Community/teams/steering-committee)
+---
 
-## Responsibilities
+## Steering Committee
+[@steering-committee](https://github.com/orgs/DAO-Community/teams/steering-committee)
 
 The members of this committee are given 2 abilities: lobby and vote.
 
@@ -62,7 +63,30 @@ The role of Chairman is nominated and voted amongst the committee members.
 Decisions are made either unanimously or by rule of majority.
 A rule of majority is recognized by a vote percentage of at least **70%** of the total committee members.
 
+## Advisory Council (WIP)
+[@advisory_council](https://github.com/orgs/DAO-Community/teams/advisory_council)
 
+
+## Moderators (WIP)
+[@moderators](https://github.com/orgs/DAO-Community/teams/moderators)
+
+
+## Volunteers (WIP)
+[@volunteers](https://github.com/orgs/DAO-Community/teams/volunteers)
+
+
+## Security Team (WIP)
+[@security](https://github.com/orgs/DAO-Community/teams/security)
+
+The team members are kept secret within the Steering Committee.
+Do not hold nominations for positions.
+The Steering Committee will reach out to potential members.
+Members of this team is expected to hold their positions secret to the rest of the organization.
+Violation will result to 
+Disclosure of one or more Security Team members will cause for punishment and removal from the `Project: DAO Community` projects.
+
+---
+---
 
 ### Notifications
 Configured to be enabled only on specific/atomized teams to avoid causing an accidental email thread bomb.
@@ -79,13 +103,3 @@ Articles:
 | Data Admin | ☑️ |
 | Data Engineering | ☑️ |
 | Data Science | ☑️ |
-
-# vvv WIP vvv
-
-### Security Team
-The team members are kept secret within the Steering Committee.
-Do not hold nominations for positions.
-The Steering Committee will reach out to potential members.
-Members of this team is expected to hold their positions secret to the rest of the organization.
-Violation will result to 
-Disclosure of one or more Security Team members will cause for punishment and removal from the `Project: DAO Community` projects.
