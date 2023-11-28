@@ -137,7 +137,12 @@ Articles:
 
 | Teams | Receive<br>Notifications |
 | -- | :--: |
+| BDFL | ✅ |
 | Steering Committee | ✅ |
+| Advisory Council | ☑️ |
+| Moderators | ✅ |
+| Volunteers | ☑️ |
+| Security Team | ✅ |
 | Data Admin | ☑️ |
 | Data Engineering | ☑️ |
 | Data Science | ☑️ |
