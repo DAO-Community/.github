@@ -19,7 +19,7 @@
 
 ### Project Codebases
 - Technical Committees [🔗](#technical-committee)
-  - Git Team [@git](https://github.com/orgs/DAO-Community/teams/git)
+  - Git Hosting Platform Team [@git-hosting-platform-team](https://github.com/orgs/DAO-Community/teams/git-hosting-platform-team)
     - Maintainers/Leads for each SIG
 
 ---
@@ -102,20 +102,36 @@ Violations to cause for punishment and removal from the `Project: DAO Community`
 ## Data Admin
 [@data-admin](https://github.com/orgs/DAO-Community/teams/data-admin)
 
-All the employees in the Data Admin pillar.
-This GitHub team only serves for notification purposes.
+Members of the Data Admin pillar.
+
+This GitHub team only serves for tagging.
+
+`📝 NOTE`: Do not create threads with this team.
 
 ## Data Engineering
 [@data-engineering](https://github.com/orgs/DAO-Community/teams/data-engineering)
 
-All the employees in the Data Engineering pillar.
-This GitHub team only serves for notification purposes.
+Members of the Data Engineering pillar.
+
+This GitHub team only serves for tagging.
+
+`📝 NOTE`: Do not create threads with this team.
 
 ## Data Science
 [@data-science](https://github.com/orgs/DAO-Community/teams/data-science)
 
-All the employees in the Data Science pillar.
-This GitHub team only serves for notification purposes.
+Members of the Data Science pillar.
+
+This GitHub team only serves for tagging.
+
+`📝 NOTE`: Do not create threads with this team.
+
+## Git Hosting Platform Team
+[@git-hosting-platform-team](https://github.com/orgs/DAO-Community/teams/git-hosting-platform-team)
+
+The team for anything Git and Git hosting platforms related (Git-SCM, GitHub, GitLab).
+
+The team that is also responsible for the technical requirements of this GitHub Organization in relation to the service of GitHub itself.
 
 ## Technical Committees
 
@@ -127,7 +143,12 @@ For each By-Community project repo, the Maintainers and Lead(s) of a SIG are res
 ---
 
 ### Notifications
+
 Configured to be enabled only on specific/atomized teams to avoid causing an accidental email thread bomb.
+
+Thus the following are implemented:
+- Teams with at most 10 members are only allowed to have Notifications enabled.
+- Parent Teams' Notifications must always be disabled.
 
 See [1 PR, 400k+ devs, 60M+ emails](https://github.com/EpicGames/Signup/pull/24) for reference.
 
@@ -143,6 +164,7 @@ Articles:
 | Moderators | ✅ |
 | Volunteers | ☑️ |
 | Security Team | ✅ |
+| Git Hosting Platform Team | ✅ |
 | Data Admin | ☑️ |
 | Data Engineering | ☑️ |
 | Data Science | ☑️ |
