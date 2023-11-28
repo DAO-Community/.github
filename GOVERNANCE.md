@@ -3,26 +3,23 @@
 ## Entities of the Community
 ### Community Project
 
-| Role | Entity/Member(s) |
-| ----------------------- | -------------------------------------- |
-| Corporate Maintainer | MDI Novare |
-| BDFL [@bdfl](https://github.com/orgs/DAO-Community/teams/bdfl) | For Nomination by Steering Committee or appointment by the Corporate Maintainer |
-| Steering Committee [@steering-committee](https://github.com/orgs/DAO-Community/teams/steering-committee) | [Joshua Daniel A. Lagasca (Dan)](https://github.com/joshua-lagasca)<br>[Corleone Jorel G. Zaldarriaga (Jorel)](https://github.com/cjzaldarriaga)<br>[John Paul Soriano (Jepe)](https://github.com/jpsoriano) |
-| Moderators [@moderators](https://github.com/orgs/DAO-Community/teams/moderators) | [Joshua Daniel A. Lagasca (Dan)](https://github.com/joshua-lagasca)<br>[Corleone Jorel G. Zaldarriaga (Jorel)](https://github.com/cjzaldarriaga)<br>[John Paul Soriano (Jepe)](https://github.com/jpsoriano) |
+- Corporate Maintainer: MDI Novare
+- BDFL [@bdfl](https://github.com/orgs/DAO-Community/teams/bdfl)
+  - *For Nomination by Steering Committee or appointment by the Corporate Maintainer
+- Steering Committee [@steering-committee](https://github.com/orgs/DAO-Community/teams/steering-committee)
+- Advisory Council [@advisory_council](https://github.com/orgs/DAO-Community/teams/advisory_council)
+- Technical Committees
+  - Git Team [@git](https://github.com/orgs/DAO-Community/teams/git)
+    - Maintainers/Leads for each SIG
+- Moderators [@moderators](https://github.com/orgs/DAO-Community/teams/moderators)
+- Volunteers [@volunteers](https://github.com/orgs/DAO-Community/teams/volunteers)
+- Security Team [@security](https://github.com/orgs/DAO-Community/teams/security)
 
-| Role | Entity/Member(s) |
-| -- | -- |
-| Data Admin [@data-admin](https://github.com/orgs/DAO-Community/teams/data-admin) | Employees in Data Admin Pillar |
-| Data Engineering [@data-engineering](https://github.com/orgs/DAO-Community/teams/data-engineering) | Employees in Data Engineering Pillar |
-| Data Science [@data-science](https://github.com/orgs/DAO-Community/teams/data-science) | Employees in Data Science Pillar |
+### Pillars
 
-# Volunteers
-
-| Role | Entity/Member(s) |
-| -- | -- |
-| Data Admin [@data-admin](https://github.com/orgs/DAO-Community/teams/data-admin) | Employees in Data Admin Pillar |
-| Data Engineering [@data-engineering](https://github.com/orgs/DAO-Community/teams/data-engineering) | Employees in Data Engineering Pillar |
-| Data Science [@data-science](https://github.com/orgs/DAO-Community/teams/data-science) | Employees in Data Science Pillar |
+- Data Admin [@data-admin](https://github.com/orgs/DAO-Community/teams/data-admin)
+- Data Engineering [@data-engineering](https://github.com/orgs/DAO-Community/teams/data-engineering)
+- Data Science [@data-science](https://github.com/orgs/DAO-Community/teams/data-science)
 
 ### Notifications
 Configured to be enabled only on specific/atomized teams to avoid causing an accidental email thread bomb.
@@ -40,8 +37,6 @@ Articles:
 | Data Engineering | ☑️ |
 | Data Science | ☑️ |
 
----
-
 # vvv WIP vvv
 
 ### Security Team
@@ -51,33 +46,3 @@ The Steering Committee will reach out to potential members.
 Members of this team is expected to hold their positions secret to the rest of the organization.
 Violation will result to 
 Disclosure of one or more Security Team members will cause for punishment and removal from the `Project: DAO Community` projects.
-
-
-### Airflow Initiative
-
-| Role                    | Entity/Member(s)                       |
-| ----------------------- | -------------------------------------- |
-| Maintainers             | [Joshua Daniel A. Lagasca (Dan)](https://github.com/joshua-lagasca)<br>[Corleone Jorel G. Zaldarriaga (Jorel)](https://github.com/cjzaldarriaga) |
-| Working Group           | [Dan](https://github.com/joshua-lagasca)<br>[Dan](https://github.com/joshua-lagasca) |
-
-### DevOps Initiative
-
-| Role                    | Entity/Member(s)                       |
-| ----------------------- | -------------------------------------- |
-| Maintainers             | [Dan](https://github.com/joshua-lagasca)<br>[Dan](https://github.com/joshua-lagasca) |
-| Working Group           | [Dan](https://github.com/joshua-lagasca)<br>[Dan](https://github.com/joshua-lagasca) |
-
-### CloudOps Initiative
-
-| Role                    | Entity/Member(s)                       |
-| ----------------------- | -------------------------------------- |
-| Maintainers             | [Dan](https://github.com/joshua-lagasca)<br>[Dan](https://github.com/joshua-lagasca) |
-| Working Group           | [Dan](https://github.com/joshua-lagasca)<br>[Dan](https://github.com/joshua-lagasca) |
-
-### WebOps Initiative
-
-| Role                    | Entity/Member(s)                       |
-| ----------------------- | -------------------------------------- |
-| Maintainers             | [Dan](https://github.com/joshua-lagasca)<br>[Dan](https://github.com/joshua-lagasca) |
-| Working Group           | [Dan](https://github.com/joshua-lagasca)<br>[Dan](https://github.com/joshua-lagasca) |
-
