@@ -47,43 +47,81 @@ This role has the ability to veto against the Steering Committee.
 [@steering-committee](https://github.com/orgs/DAO-Community/teams/steering-committee)
 
 The members of this committee are given 2 abilities: lobby and vote.
-
-Members may lobby amongst the committee members their vote.
-Members may vote amongst the committee members their vote.
+- Members may lobby amongst the committee members their vote.
+- Members may vote amongst the committee members their vote.
 
 This committee must always be at least 3 individuals, and never in an even count.
+
 In case the committee is reduced to an even count, a priority by residence takes precedence,
 and the member with the least residence shall be withdrawn the ability to vote but not the ability to lobby.
 
 The Chairman of this committee must lead the delegation between the committee members.
+
 The Chairman must call and collect the votes of the committee members.
+
 The Chairman must represent the committee to the community.
+
 The role of Chairman is nominated and voted amongst the committee members.
 
 Decisions are made either unanimously or by rule of majority.
 A rule of majority is recognized by a vote percentage of at least **70%** of the total committee members.
 
-## Advisory Council (WIP)
+## Advisory Council
 [@advisory_council](https://github.com/orgs/DAO-Community/teams/advisory_council)
 
+An advisory council provides advice and recommendations to the Steering Committee.
 
-## Moderators (WIP)
+This council does not have direct decision-making authority.
+
+Advisory councils are expected to provide valuable insights and advice, also offering diverse perspectives.
+
+## Moderators
 [@moderators](https://github.com/orgs/DAO-Community/teams/moderators)
 
+This team is responsible for any moderation activity needed on the For-Community projects.
 
-## Volunteers (WIP)
+## Volunteers
 [@volunteers](https://github.com/orgs/DAO-Community/teams/volunteers)
 
+This team is responsible for any non-security sensitive activity needed on the For-Community projects.
 
-## Security Team (WIP)
+## Security Team
 [@security](https://github.com/orgs/DAO-Community/teams/security)
 
-The team members are kept secret within the Steering Committee.
-Do not hold nominations for positions.
+This team is responsible for any security activity needed on the For-Community projects.
+
+`📝 NOTE`: Do not hold nominations for positions in this team.
 The Steering Committee will reach out to potential members.
-Members of this team is expected to hold their positions secret to the rest of the organization.
-Violation will result to 
-Disclosure of one or more Security Team members will cause for punishment and removal from the `Project: DAO Community` projects.
+
+Members of this team is expected to hold their positions known only to the Steering Committee and BDFL.
+
+Violations to cause for punishment and removal from the `Project: DAO Community` projects are:
+- Disclosure of any security-related information kept by this team.
+- Disclosure of one or more Security Team members
+
+## Data Admin
+[@data-admin](https://github.com/orgs/DAO-Community/teams/data-admin)
+
+All the employees in the Data Admin pillar.
+This GitHub team only serves for notification purposes.
+
+## Data Engineering
+[@data-engineering](https://github.com/orgs/DAO-Community/teams/data-engineering)
+
+All the employees in the Data Engineering pillar.
+This GitHub team only serves for notification purposes.
+
+## Data Science
+[@data-science](https://github.com/orgs/DAO-Community/teams/data-science)
+
+All the employees in the Data Science pillar.
+This GitHub team only serves for notification purposes.
+
+## Technical Committees
+
+For each For-Community project repo, the Git Team focuses on all Git and GitHub related activities and processes. Including code review processes, technical standards and quality, release and versioning management.
+
+For each By-Community project repo, the Maintainers and Lead(s) of a SIG are responsible.
 
 ---
 ---
