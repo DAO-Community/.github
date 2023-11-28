@@ -12,10 +12,6 @@
 
 [placeholder]: [Octocat](https://github.com/Octocat)
 
-## Responsibilities
-
-This role has the ability to veto against the Steering Committee.
-
 # Steering Committee [@steering-committee](https://github.com/orgs/DAO-Community/teams/steering-committee)
 
 - [John Paul Soriano (Jepe)](https://github.com/jpsoriano) (Chair)
