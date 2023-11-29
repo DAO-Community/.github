@@ -111,7 +111,6 @@ If a render is broken, either the URL has typo or the label doesn't exist.
 ---
 
 ### Project Management
-#### initiative: { epic: { story: { task }}}
 
 | render | name | emoji | color | description |
 | :- | -- |:-:|:-:| -- |
@@ -121,17 +120,44 @@ If a render is broken, either the URL has typo or the label doesn't exist.
 | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | Agile: Story | ⚁ | #3E4B9E | A theme of work that contain tasks |
 | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | Agile: Task | ⚀ | #3E4B9E | A work task |
 
+#### Scope
+
+```json
+{
+    "theme": {
+        "initiative": {
+            "epic": {
+                "story": {
+                    "task": "task"
+                }
+            }
+        }
+    }
+}
+```
+
 ---
 
 ### Status
 To be used in conjunction with [Determined](https://github.com/DAO-Community/.github/edit/main/README.md#Determined) labels.
 
 | render | name | emoji | color | description |
-| :- | -- |:-:|:-:| -- |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | Status: TBD | | 000000 | Something is yet To-Be-Determined. |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | Status: TODO | | 000000 | Something is up To-Do. |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | Status: WIP |  | 000000 | Something is in progress. |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | Status: DONE | | 000000 | Something is completed/finished. |
+| :- | -- | :-: | :-: | -- |
+| https://github.com/DAO-Community/.github/labels/Status%3A%20TBD%20🤔 | Status: TBD | 🤔 | ![](https://placehold.co/20/808080/808080) #808080 | Something is yet To-Be-Determined. |
+| https://github.com/DAO-Community/.github/labels/Status%3A%20TODO%20😶 | Status: TODO | 😶 | ![](https://placehold.co/20/000080/000080) #000080 | Something is up To-Do. |
+| https://github.com/DAO-Community/.github/labels/Status%3A%20WIP%20🥱 | Status: WIP | 🥱 | ![](https://placehold.co/20/808000/808000) #808000 | Something is in progress. |
+| https://github.com/DAO-Community/.github/labels/Status%3A%20DONE%20🤤 | Status: DONE | 🤤 | ![](https://placehold.co/20/008000/008000) #008000 | Something is completed/finished. |
+| https://github.com/DAO-Community/.github/labels/Status%3A%20TRASH%20🫥 | Status: TRASH | 🫥 | ![](https://placehold.co/20/800000/800000) #800000 | Something is trashed. |
+
+#### Process
+
+- TODO <-> TBD
+- WIP <-> TBD
+- DONE <-> TBD
+- TODO > TRASH
+- WIP > TRASH
+- DONE > TRASH
+- TODO > WIP > DONE
 
 ---
 
