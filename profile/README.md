@@ -16,12 +16,12 @@ for the employees of [<img src="https://github.com/DAO-Community/Brand-Assets/bl
 
 | For-Community Projects | Status |
 | :-- | :--: |
-| Git Hosting Platform Survey & Report (Git Team) | https://github.com/DAO-Community/.github/labels/Status%3A%20DONE |
-| GitHub Organization (Git Team) | https://github.com/DAO-Community/.github/labels/Status%3A%20TODO |
-| Matrix Network (Fedi Team) | https://github.com/DAO-Community/.github/labels/Status%3A%20TODO |
-| Website via GitHub Pages (Web Team) | https://github.com/DAO-Community/.github/labels/Status%3A%20TODO |
-| Tech Stack Survey & Report (Git Team) | https://github.com/DAO-Community/.github/labels/Status%3A%20TODO |
-| 2024 Summits/Conferences/Convention (Steering Committee & Volunteers) | https://github.com/DAO-Community/.github/labels/Status%3A%20TODO |
+| Git Hosting Platform Survey & Report (Git Team) | https://github.com/DAO-Community/.github/labels/Status%3A%20DONE%20%F0%9F%A4%A4 |
+| GitHub Organization (Git Team) | https://github.com/DAO-Community/.github/labels/Status%3A%20WIP%20%F0%9F%A5%B1 |
+| Matrix Network (Fedi Team) | https://github.com/DAO-Community/.github/labels/Status%3A%20TODO%20%F0%9F%98%B6 |
+| Website via GitHub Pages (Web Team) | https://github.com/DAO-Community/.github/labels/Status%3A%20TBD%20%F0%9F%A4%94 |
+| Tech Stack Survey & Report (Git Team) | https://github.com/DAO-Community/.github/labels/Status%3A%20TODO%20%F0%9F%98%B6 |
+| 2024 Summits/Conferences/Convention (Steering Committee & Volunteers) | https://github.com/DAO-Community/.github/labels/Status%3A%20TBD%20%F0%9F%A4%94 |
 
 Methodology: Waterfall
 
