@@ -10,7 +10,7 @@
 [![⚖️ License: MIT](https://img.shields.io/badge/⚖️%20License-MIT-yellow.svg?style=plastic)](https://github.com/DAO-Community/.github/blob/main/LICENSE) ![](https://img.shields.io/badge/docs-ongoing-darkgreen?style=plastic) [![google developer documentation style guide](https://custom-icon-badges.demolab.com/badge/dev%20docu%20style%20guide-Google%20-DB4437?style=plastic&logo=google&logoColor=F4B400&labelColor=4285F4)](https://developers.google.com/style/) [![SemVer 2.0.0](https://img.shields.io/badge/SemVer-2.0.0-3e4451?style=plastic&logo=Semver)](https://www.semver.org) [![Conventional Commits 1.0.0](https://img.shields.io/badge/Conventional%20Commits-1.0.0-f46574?style=plastic&logo=conventionalcommits)](https://www.conventionalcommits.org/en/v1.0.0/) [![gitmoji:😜 😍](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67?style=plastic)](https://gitmoji.dev/)
 
 From 𝙿𝚛𝚘𝚓𝚎𝚌𝚝: 𝙳𝙰𝙾 𝙲𝚘𝚖𝚖𝚞𝚗𝚒𝚝𝚢, this GitHub Organization is a developer community space <br>
-for the employees of [<img src="https://github.com/DAO-Community/Brand-Assets/blob/79d830a22a345625db08b2ed0274261ce6da6f1f/One%20MDI%20Novare%20Logos/MDINovarelogo_new_fc.png" alt="MDI Novare logo" width="100" />](https://mdi.net.ph)  **Data Analytics Organzization (DAO)**.
+for the employees of [<img src="https://github.com/DAO-Community/Brand-Assets/blob/79d830a22a345625db08b2ed0274261ce6da6f1f/One%20MDI%20Novare%20Logos/MDINovarelogo_new_fc.png" alt="MDI Novare logo" width="100" />](https://mdi.net.ph)  **Data & Analytics Organzization (DAO)**.
 
 ---
 
