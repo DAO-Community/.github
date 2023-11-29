@@ -143,11 +143,11 @@ To be used in conjunction with [Determined](https://github.com/DAO-Community/.gi
 
 | render | name | emoji | color | description |
 | :- | -- | :-: | :-: | -- |
-| https://github.com/DAO-Community/.github/labels/Status%3A%20TBD%20🤔 | Status: TBD | 🤔 | ![](https://placehold.co/20/808080/808080) #808080 | Something is yet To-Be-Determined. |
-| https://github.com/DAO-Community/.github/labels/Status%3A%20TODO%20😶 | Status: TODO | 😶 | ![](https://placehold.co/20/000080/000080) #000080 | Something is up To-Do. |
-| https://github.com/DAO-Community/.github/labels/Status%3A%20WIP%20🥱 | Status: WIP | 🥱 | ![](https://placehold.co/20/808000/808000) #808000 | Something is in progress. |
-| https://github.com/DAO-Community/.github/labels/Status%3A%20DONE%20🤤 | Status: DONE | 🤤 | ![](https://placehold.co/20/008000/008000) #008000 | Something is completed/finished. |
-| https://github.com/DAO-Community/.github/labels/Status%3A%20TRASH%20🫥 | Status: TRASH | 🫥 | ![](https://placehold.co/20/800000/800000) #800000 | Something is trashed. |
+| https://github.com/DAO-Community/.github/labels/Status%3A%20TBD%20%F0%9F%A4%94 | Status: TBD | 🤔 | ![](https://placehold.co/20/808080/808080) #808080 | Something is yet To-Be-Determined. |
+| https://github.com/DAO-Community/.github/labels/Status%3A%20TODO%20%F0%9F%98%B6 | Status: TODO | 😶 | ![](https://placehold.co/20/000080/000080) #000080 | Something is up To-Do. |
+| https://github.com/DAO-Community/.github/labels/Status%3A%20WIP%20%F0%9F%A5%B1 | Status: WIP | 🥱 | ![](https://placehold.co/20/808000/808000) #808000 | Something is in progress. |
+| https://github.com/DAO-Community/.github/labels/Status%3A%20DONE%20%F0%9F%A4%A4 | Status: DONE | 🤤 | ![](https://placehold.co/20/008000/008000) #008000 | Something is completed/finished. |
+| https://github.com/DAO-Community/.github/labels/Status%3A%20TRASH%20%F0%9F%AB%A5 | Status: TRASH | 🫥 | ![](https://placehold.co/20/800000/800000) #800000 | Something is trashed. |
 
 #### Process
 
