@@ -14,14 +14,14 @@ for the employees of [<img src="https://github.com/DAO-Community/Brand-Assets/bl
 
 ---
 
-## For-Community Projects:
-
-* Git Hosting Platform Survey & Report (Git Team)
-* GitHub Organization (Git Team)
-* Matrix Network (Fedi Team)
-* Website via GitHub Pages (Web Team)
-* Tech Stack Survey & Report (Git Team)
-* 2024 Summits/Conferences/Convention (Steering Committee & Volunteers)
+| For-Community Projects | Status |
+| :-- | :--: |
+| Git Hosting Platform Survey & Report (Git Team) | https://github.com/DAO-Community/.github/labels/Status%3A%20DONE |
+| GitHub Organization (Git Team) | https://github.com/DAO-Community/.github/labels/Status%3A%20TODO |
+| Matrix Network (Fedi Team) | https://github.com/DAO-Community/.github/labels/Status%3A%20TODO |
+| Website via GitHub Pages (Web Team) | https://github.com/DAO-Community/.github/labels/Status%3A%20TODO |
+| Tech Stack Survey & Report (Git Team) | https://github.com/DAO-Community/.github/labels/Status%3A%20TODO |
+| 2024 Summits/Conferences/Convention (Steering Committee & Volunteers) | https://github.com/DAO-Community/.github/labels/Status%3A%20TODO |
 
 Methodology: Waterfall
 
