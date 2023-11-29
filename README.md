@@ -53,8 +53,8 @@ If a render is broken, either the URL has typo or the label doesn't exist.
 
 | render | name | emoji | color | description |
 | :- | -- |:-:|:-:| -- |
-| https://github.com/DAO-Community/.github/labels/GitHub%20%F0%9F%90%88%E2%80%8D%E2%AC%9B | GitHub | 🐈‍⬛ | #000000 | GitHub related |
-| https://github.com/DAO-Community/.github/labels/GitLab%20%F0%9F%A6%8A | GitLab | 🦊 | #554488 | GitLab related |
+| https://github.com/DAO-Community/.github/labels/GitHub%20%F0%9F%90%88%E2%80%8D%E2%AC%9B | GitHub | 🐈‍⬛ | #000000 | Something GitHub related. |
+| https://github.com/DAO-Community/.github/labels/GitLab%20%F0%9F%A6%8A | GitLab | 🦊 | #554488 | Something GitLab related. |
 
 | render | name | emoji | color | description |
 | :- | -- |:-:|:-:| -- |
@@ -79,12 +79,12 @@ If a render is broken, either the URL has typo or the label doesn't exist.
 
 | render | name | emoji | color | description |
 | :- | -- |:-:|:-:| -- |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | OS: Windows | 🪟 | 000000 | Specific to Windows environments |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | OS: OSX | 🍏 | 000000 | Specific to Mac environments |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | OS: Linux | 🐃🐧 | 000000 | Specific to Linux environments |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | OS: Android | 🤖 | 000000 | Specific to Android environments |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | OS: iOS | 🍎 | 000000 | Specific to iOS environments |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | OS: Web | 🌐 | 000000 | Specific to Web environments |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | OS: Windows | 🪟 | 000000 | Specific to Windows environments. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | OS: OSX | 🍏 | 000000 | Specific to Mac environments. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | OS: Linux | 🐃🐧 | 000000 | Specific to Linux environments. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | OS: Android | 🤖 | 000000 | Specific to Android environments. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | OS: iOS | 🍎 | 000000 | Specific to iOS environments. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | OS: Web | 🌐 | 000000 | Specific to Web environments. |
 
 ---
 
@@ -114,11 +114,11 @@ If a render is broken, either the URL has typo or the label doesn't exist.
 
 | render | name | emoji | color | description |
 | :- | -- |:-:|:-:| -- |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | Agile: Theme | ⚄ | ![](https://placehold.co/20/800000/800000) #800000 | A theme of work that contain initiatives |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | Agile: Initiative | ⚃ | ![](https://placehold.co/20/804000/804000) #804000 | A theme of work that contain epics |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | Agile: Epic | ⚂ | ![](https://placehold.co/20/808000/808000) #808000 | A theme of work that contain stories |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | Agile: Story | ⚁ | ![](https://placehold.co/20/008000/008000) #008000 | A theme of work that contain tasks |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | Agile: Task | ⚀ | ![](https://placehold.co/20/000080/000080) #000080 | A work task |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | Agile: Theme | ⚄ | ![](https://placehold.co/20/800000/800000) #800000 | A theme of work that contain initiatives. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | Agile: Initiative | ⚃ | ![](https://placehold.co/20/804000/804000) #804000 | A theme of work that contain epics. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | Agile: Epic | ⚂ | ![](https://placehold.co/20/808000/808000) #808000 | A theme of work that contain stories. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | Agile: Story | ⚁ | ![](https://placehold.co/20/008000/008000) #008000 | A theme of work that contain tasks. |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | Agile: Task | ⚀ | ![](https://placehold.co/20/000080/000080) #000080 | A work task. |
 
 #### Scope
 
