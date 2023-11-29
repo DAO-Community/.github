@@ -114,11 +114,11 @@ If a render is broken, either the URL has typo or the label doesn't exist.
 
 | render | name | emoji | color | description |
 | :- | -- |:-:|:-:| -- |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | Agile: Theme | ⚄ | #3E4B9E | A theme of work that contain initiatives |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | Agile: Initiative | ⚃ | #3E4B9E | A theme of work that contain epics |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | Agile: Epic | ⚂ | #3E4B9E | A theme of work that contain stories |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | Agile: Story | ⚁ | #3E4B9E | A theme of work that contain tasks |
-| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | Agile: Task | ⚀ | #3E4B9E | A work task |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | Agile: Theme | ⚄ | ![](https://placehold.co/20/800000/800000) #800000 | A theme of work that contain initiatives |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | Agile: Initiative | ⚃ | ![](https://placehold.co/20/804000/804000) #804000 | A theme of work that contain epics |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | Agile: Epic | ⚂ | ![](https://placehold.co/20/808000/808000) #808000 | A theme of work that contain stories |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | Agile: Story | ⚁ | ![](https://placehold.co/20/008000/008000) #008000 | A theme of work that contain tasks |
+| https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | Agile: Task | ⚀ | ![](https://placehold.co/20/000080/000080) #000080 | A work task |
 
 #### Scope
 
