@@ -112,6 +112,21 @@ If a render is broken, either the URL has typo or the label doesn't exist.
 
 ### Project Management
 
+#### Waterfall Pipeline
+
+| render | name | emoji | color | description |
+| :- | -- |:-:|:-:| -- |
+| https://github.com/DAO-Community/.github/labels/Waterfall%3A%20 | Waterfall: Requirements & Analysis | ① | ![](https://placehold.co/20/800000/800000) #800000 | Phase 1 |
+| https://github.com/DAO-Community/.github/labels/Waterfall%3A%20 | Waterfall: System Design | ② | ![](https://placehold.co/20/804000/804000) #804000 | Phase 2 |
+| https://github.com/DAO-Community/.github/labels/Waterfall%3A%20 | Waterfall: Implementation | ③ | ![](https://placehold.co/20/808000/808000) #808000 | Phase 3 |
+| https://github.com/DAO-Community/.github/labels/Waterfall%3A%20 | Waterfall: Testing | ④ | ![](https://placehold.co/20/008000/008000) #008000 | Phase 4 |
+| https://github.com/DAO-Community/.github/labels/Waterfall%3A%20 | Waterfall: Deployment | ⑤ | ![](https://placehold.co/20/000080/000080) #000080 | Phase 5 |
+| https://github.com/DAO-Community/.github/labels/Waterfall%3A%20 | Waterfall: Maintenance | ⑥ | ![](https://placehold.co/20/400080/400080) #400080 | Phase 6 |
+
+- Requirements & Analysis > System Design > Implementation > Testing > Deployment > Maintenance
+
+#### Kanban Issue Structure
+
 | render | name | emoji | color | description |
 | :- | -- |:-:|:-:| -- |
 | https://github.com/DAO-Community/.github/labels/type%3A%20bug%20%F0%9F%90%9B | Agile: Theme | ⚄ | ![](https://placehold.co/20/800000/800000) #800000 | A theme of work that contain initiatives. |
