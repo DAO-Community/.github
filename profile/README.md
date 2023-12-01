@@ -31,16 +31,24 @@ To learn more about DAO Community, see [placeholder]().
 
 To get up to speed quickly, start with our [getting started guide](https://github.com/DAO-Community/wiki/get-started)!
 
-## ✨ Mission & Vision
+## ✨ Mission
 
-Build and nurture a developer community space through Innovation and Collaboration.
+Build and nurture a developer community space through **Innovation** and **Collaboration**.
+
+## ✨ Vision
+
+A developer community driven by **Innovation** and **Collaboration**.
 
 ## 👥 Get involved!
 
-You can join the fun by following our [contributing guide](https://github.com/DAO-Community/.github/blob/master/CONTRIBUTING.md). 🌈 Everyone is welcome!
+You can join the fun by following our [Contributing Guide](https://github.com/DAO-Community/.github/blob/master/CONTRIBUTING.md). 🌈 Everyone is welcome!
 
 
-[CODE OF CONDUCT](https://github.com/DAO-Community/.github/blob/main/CODE_OF_CONDUCT.md)
+## Code of Conduct
+
+The DAO Community strongly values inclusivity and diversity. Everyone should treat others with the utmost respect. Everyone in the community must adhere to the [Code of Conduct](https://github.com/DAO-Community/.github/blob/main/CODE_OF_CONDUCT.md) specified in the DAO Community GitHub repository. Violations of this code of conduct may be reported confidentially to Project Maintainers indicated at that link.
+
+
 
 [GOVERNANCE](https://github.com/DAO-Community/.github/blob/main/GOVERNANCE.md)
 

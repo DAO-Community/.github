@@ -1,6 +1,14 @@
 📄 File under 🏗 construction.
 
+## Governance Structure
+
+This document describes the formal governance structure of the DAO Community. For the purpose of this document, “DAO-Community” includes all repositories in the [DAO Community GitHub organization](https://github.com/DAO-Community).
+
+
 ## Entities of the Community
+
+This section outlines the different entities that exist within the DAO Community project, their basic role, and how membership of each entity is determined.
+
 ### For-Community
 
 - Corporate Maintainer: MDI Novare
@@ -46,14 +54,26 @@ This role has the ability to veto against the Steering Committee.
 ## Steering Committee
 [@steering-committee](https://github.com/orgs/DAO-Community/teams/steering-committee)
 
-The members of this committee are given 2 abilities: lobby and vote.
+The Steering Committee supports the initiative by representing the DAO Community in all administrative and legal capacities.
+
+The members of this committee must always be at counts `3`, `5`, `7`, and `9` **only**.
+
+### Decision Making Process
+
+The members of this committee are given 2 powers: lobby and vote.
 - Members may lobby amongst the committee members their vote.
 - Members may vote amongst the committee members their vote.
 
-This committee must always be at least 3 individuals, and never in an even count.
+Decisions are made either unanimously or by rule of majority.
+
+A rule of majority is recognized by a vote percentage of at least **70%** of the total committee members.
 
 In case the committee is reduced to an even count, a priority by residence takes precedence,
-and the member with the least residence shall be withdrawn the ability to vote but not the ability to lobby.
+and the member with the least residence shall be withdrawn the power to vote but not the power to lobby.
+
+[//]: # "This section may be split into Financial and Non-Financial"
+
+### Chairman
 
 The Chairman of this committee must lead the delegation between the committee members.
 
@@ -63,8 +83,29 @@ The Chairman must represent the committee to the community.
 
 The role of Chairman is nominated and voted amongst the committee members.
 
-Decisions are made either unanimously or by rule of majority.
-A rule of majority is recognized by a vote percentage of at least **70%** of the total committee members.
+A Chairman must hold a tenure of 3 months (90 days) before a new Chairman is appointed.
+
+### Resignation
+
+A member of the Steering Committee may leave the committee by doing the requirements below:
+- notify the Steering Committee
+- submit a Pull Request adding their name to the Former Steering Committee Members and Candidates Queue (ignore if leaving the company)
+
+### Candidates
+
+The candidates for membership in the Steering Committee are considered either:
+- by invitation from the Steering Committee or
+- a RFC of nomination from the community or the potential candidates themselves.
+
+A RFC for nomination will only be considered when 10% of the community upvotes.
+A RFC for nomination will be dropped if an invitation from the Steering Committee has been made.
+The RFC issue must be closed with a comment of `Candidate invited, closing RFC.`.
+
+The considered candidates are queued in a list in the [Contributors](https://github.com/DAO-Community/.github/blob/master/Contributors.md) file.
+
+First on the queue gets to take the open slot.
+
+Candidates who are no longer an employee of the company will be removed from the list.
 
 ## Advisory Council
 [@advisory_council](https://github.com/orgs/DAO-Community/teams/advisory_council)
@@ -139,6 +180,17 @@ For each For-Community project repo, the Git Team focuses on all Git and GitHub 
 
 For each By-Community project repo, the Maintainers and Lead(s) of a SIG are responsible.
 
+## SIG Maintainers (WIP)
+
+Project Maintainers/Leads are responsible for the technical development of their respective SIG' projects.
+
+A new maintainer may be added by consensus of the current Project Maintainers and notification to the Steering Committee.
+
+Before becoming a maintainer, it is expected that the community member will have been an active participant in the development and maintenance of at least one (1) of their SIG repository for a sustained period of time. This includes triaging issues, proposing and reviewing pull requests, and updating any binary dependencies as needed.
+
+## SIG Contributors (WIP)
+
+
 ---
 ---
 
@@ -168,3 +220,39 @@ Articles:
 | Data Admin | ☑️ |
 | Data Engineering | ☑️ |
 | Data Science | ☑️ |
+
+[//]: # "Add Section: Conflict of Interest"
+
+## Community Involvement (WIP)
+
+The DAO Community project highly values the contributions made by members of the community. As an open-source project, DAO Community is both made for the community, and by the community.
+
+There are five main channels that DAO Community uses to engage with the community.
+
+### Community Forums (WIP)
+
+The DAO Community Project Maintainers operate a [Matrix Network](https://groups.google.com/g/DAO Community) and host [GitHub Discussions](https://github.com/DAO-Community/Discussions/discussions) within the DAO Community repository. These forums serve two purposes. First, they provide a space for users to seek advice on how to use DAO Community (or convex optimization more broadly) in their intended application. Second, they provide a space for discussion on possible improvements to DAO Community or its dependencies.
+
+### Matrix Server (WIP)
+
+Discussions focused on the DAO Community’s development are conducted on a [Matrix Network](https://matrix.dao/xyz). The server is public but requires email verification.
+
+The server consists of several channels with different permissions based on the concept of Matrix roles. The named roles are “Moderators”, “L1”, "L2", "L3".
+
+The "L3" have write access to all channels and also have a private channel.
+
+Those with the “L2” role have write access to the “developers” channel, which is otherwise read-only.
+
+Individuals who have contributed significantly to the development of the DAO Community, for example by proposing and merging at least one substantial pull request, may be invited to the Matrix server as Contributors. L3 may grant the L2 role within Matrix at their discretion, and may create additional channels for specific long-term projects in the DAO Community’s development.
+
+### Workplace Group (WIP)
+
+The DAO Community Channel is open for anyone to post any topic.
+
+[//]: # "Should this be regulated as well?"
+
+### Developer Calls (WIP)
+
+The Steering Committee hosts semiannual developer calls to discuss the DAO Community-related business. 
+
+The precise time of a given call is determined one month ahead of time by discussions on the “developer-calls” channel of the DAO Community Matrix Network.

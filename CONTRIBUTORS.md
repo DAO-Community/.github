@@ -12,11 +12,21 @@
 
 [placeholder]: [Octocat](https://github.com/Octocat)
 
+Due to his/her role in the creation of the DAO Community, [Octocat](https://github.com/Octocat) holds the title of [Benevolent Dictator For Life (BDFL)](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life).
+
 # Steering Committee [@steering-committee](https://github.com/orgs/DAO-Community/teams/steering-committee)
 
 - [John Paul Soriano (Jepe)](https://github.com/jpsoriano) (Chair)
 - [Corleone Jorel G. Zaldarriaga (Jorel)](https://github.com/cjzaldarriaga)
 - [Joshua Daniel A. Lagasca (Dan)](https://github.com/joshua-lagasca)
+
+## Steering Committee Candidates
+
+1. [Octocat](https://github.com/octocat)
+
+## Former Steering Committee Members
+
+- [Octocat](https://github.com/octocat) (20XX-20XX)|(M1-M2 20XX)|(M1 20XX-M2 20XX)
 
 # Moderators [@moderators](https://github.com/orgs/DAO-Community/teams/moderators)
 
