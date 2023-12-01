@@ -107,6 +107,15 @@ First on the queue gets to take the open slot.
 
 Candidates who are no longer an employee of the company will be removed from the list.
 
+### Onboarding
+
+Members must read and learn from the sites below:
+- [Open Source Guides](https://opensource.guide)
+- [GitHub Community](https://github.com/community)
+
+- [GitHub Docs](https://docs.github.com/en)
+- [GitHub Skills](https://skills.github.com/)
+
 ## Advisory Council
 [@advisory_council](https://github.com/orgs/DAO-Community/teams/advisory_council)
 
@@ -120,6 +129,13 @@ Advisory councils are expected to provide valuable insights and advice, also off
 [@moderators](https://github.com/orgs/DAO-Community/teams/moderators)
 
 This team is responsible for any moderation activity needed on the For-Community projects.
+
+### Onboarding
+
+Members must read and learn from the sites below:
+- [Open Source Guides](https://opensource.guide)
+- [GitHub Docs](https://docs.github.com/en)
+- [GitHub Skills](https://skills.github.com/)
 
 ## Volunteers
 [@volunteers](https://github.com/orgs/DAO-Community/teams/volunteers)
@@ -139,6 +155,11 @@ Members of this team is expected to hold their positions known only to the Steer
 Violations to cause for punishment and removal from the `Project: DAO Community` projects are:
 - Disclosure of any security-related information kept by this team.
 - Disclosure of one or more Security Team members
+
+### Onboarding
+
+Members must read and learn from the sites below:
+- [GitHub Docs](https://docs.github.com/en)
 
 ## Data Admin
 [@data-admin](https://github.com/orgs/DAO-Community/teams/data-admin)
@@ -174,6 +195,14 @@ The team for anything Git and Git hosting platforms related (Git-SCM, GitHub, Gi
 
 The team that is also responsible for the technical requirements of this GitHub Organization in relation to the service of GitHub itself.
 
+### Onboarding
+
+Members must read and learn from the sites below:
+- [Open Source Guides](https://opensource.guide)
+- [GitHub Community](https://github.com/community)
+- [GitHub Docs](https://docs.github.com/en)
+- [GitHub Skills](https://skills.github.com/)
+
 ## Technical Committees
 
 For each For-Community project repo, the Git Team focuses on all Git and GitHub related activities and processes. Including code review processes, technical standards and quality, release and versioning management.
@@ -188,8 +217,23 @@ A new maintainer may be added by consensus of the current Project Maintainers an
 
 Before becoming a maintainer, it is expected that the community member will have been an active participant in the development and maintenance of at least one (1) of their SIG repository for a sustained period of time. This includes triaging issues, proposing and reviewing pull requests, and updating any binary dependencies as needed.
 
+### Onboarding
+
+Maintainers must read and learn from the sites below:
+- [GitHub Docs](https://docs.github.com/en)
+- [GitHub Skills](https://skills.github.com/)
+
 ## SIG Contributors (WIP)
 
+### Onboarding
+
+Contributors must read and learn from the sites below:
+- [GitHub Docs](https://docs.github.com/en)
+- [GitHub Skills](https://skills.github.com/)
+
+## Users (WIP)
+
+### Onboarding
 
 ---
 ---
@@ -256,3 +300,15 @@ The DAO Community Channel is open for anyone to post any topic.
 The Steering Committee hosts semiannual developer calls to discuss the DAO Community-related business. 
 
 The precise time of a given call is determined one month ahead of time by discussions on the “developer-calls” channel of the DAO Community Matrix Network.
+
+## Documentation
+
+About the DAO Community documentation philosophy:
+
+As the home to the MDI Novare's community of developers, we want to make sure that our documentation is accurate, valuable, inclusive, and easy to use. Our documentation philosophy leads us toward these goals.
+
+We advocate for our users. This can occur at any point in the documentation process, from planning to writing to publishing. We respond to feedback and proactively work to create the best user experience possible on the GitHub site.
+We collaborate with teams across MDI Novare to create high-quality content.
+We continually learn and improve to curate the best experience for the community.
+
+[//]: # "EOF"
