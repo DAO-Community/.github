@@ -73,23 +73,32 @@ and the member with the least residence shall be withdrawn the power to vote but
 
 [//]: # "This section may be split into Financial and Non-Financial"
 
+### Project Formation
+
+The Steering Committee assigns the resources (maintainers, individual contributors, teams) to work on a For-Community project.
+
+The committee may also assign resources on SIG projects but are not necessary.
+
+[//]: # "TODO: Add instruction for RFC on project formation"
+
 ### Chairman
 
 The Chairman of this committee must lead the delegation between the committee members.
 
-The Chairman must call and collect the votes of the committee members.
-
-The Chairman must represent the committee to the community.
+The Chairman must:
+- call and collect the votes of the committee members.
+- represent the committee to the community.
+- hold a tenure of 3 months (90 days) before a new Chairman is appointed.
 
 The role of Chairman is nominated and voted amongst the committee members.
-
-A Chairman must hold a tenure of 3 months (90 days) before a new Chairman is appointed.
 
 ### Resignation
 
 A member of the Steering Committee may leave the committee by doing the requirements below:
-- notify the Steering Committee
-- submit a Pull Request adding their name to the Former Steering Committee Members and Candidates Queue (ignore if leaving the company)
+- notify the Steering Committee.
+- submit a Pull Request adding their name to the [Former Steering Committee Members](https://github.dev/DAO-Community/.github/blob/main/CODE_OF_CONDUCT.md#former-steering-committee-members) and [Steering Committee Candidates Queue](https://github.dev/DAO-Community/.github/blob/main/CODE_OF_CONDUCT.md#steering-committee-candidates-queue) (ignore if the member is leaving the company).
+
+If the resigning member is leaving the company, the other committee members must submit the PR.
 
 ### Candidates
 
@@ -97,15 +106,19 @@ The candidates for membership in the Steering Committee are considered either:
 - by invitation from the Steering Committee or
 - a RFC of nomination from the community or the potential candidates themselves.
 
-A RFC for nomination will only be considered when 10% of the community upvotes.
-A RFC for nomination will be dropped if an invitation from the Steering Committee has been made.
-The RFC issue must be closed with a comment of `Candidate invited, closing RFC.`.
-
-The considered candidates are queued in a list in the [Contributors](https://github.com/DAO-Community/.github/blob/master/Contributors.md) file.
+The considered candidates are then queued in a list in the [Contributors](https://github.com/DAO-Community/.github/blob/master/Contributors.md) file.
 
 First on the queue gets to take the open slot.
 
 Candidates who are no longer an employee of the company will be removed from the list.
+
+#### RFC for Nomination
+
+A RFC for nomination will only be considered when 10% of the community upvotes within 30 days from posting.
+
+A RFC for nomination will be closed with a comment of `Candidate invited, closing RFC.` if an invitation from the Steering Committee has been made.
+
+If the RFC passed the criteria, then the RFC will be closed with a comment of `Nomination: passed, closing RFC.`. Otherwise, the RFC will be closed with a comment of `Nomination failed, closing RFC.`.
 
 ### Onboarding
 

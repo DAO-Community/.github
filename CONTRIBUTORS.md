@@ -20,7 +20,7 @@ Due to his/her role in the creation of the DAO Community, [Octocat](https://gith
 - [Corleone Jorel G. Zaldarriaga (Jorel)](https://github.com/cjzaldarriaga)
 - [Joshua Daniel A. Lagasca (Dan)](https://github.com/joshua-lagasca)
 
-## Steering Committee Candidates
+## Steering Committee Candidates Queue
 
 1. [Octocat](https://github.com/octocat)
 
