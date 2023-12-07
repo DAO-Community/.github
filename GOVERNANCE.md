@@ -135,11 +135,11 @@ Members must read and learn from the sites below:
   - [The Legal Side of Open Source](https://opensource.guide/legal/)
 - [GitHub Community](https://github.com/community)
 - [The Linux Foundation: Open Source Guides](https://www.linuxfoundation.org/resources/open-source-guides)
-- [OSS Watch](http://oss-watch.ac.uk/)
   - Participating in Open Source Communities
   - Improving Your Open Source Development Impact
   - Building Leadership in an Open Source Community
   - Measuring Your Open Source Program’s Success
+- [OSS Watch](http://oss-watch.ac.uk/)
 - [GitHub Docs](https://docs.github.com/en)
 - [GitHub Skills](https://skills.github.com/)
 
