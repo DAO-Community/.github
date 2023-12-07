@@ -1,8 +1,8 @@
-📄 File under 🏗 construction.
+**📄 File under 🏗 construction.**
 
 ## New Members
 
-A dedicated repository is made for new members/employees. Quickstart your DAO Community journey [here]().
+For new members/employees, quickstart your DAO Community journey [here](https://github.com/DAO-Community/quickstart/tree/dev/)!
 
 ## Governance Structure
 
