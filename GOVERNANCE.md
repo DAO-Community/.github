@@ -1,5 +1,9 @@
 📄 File under 🏗 construction.
 
+## New Members
+
+A dedicated repository is made for new members/employees. Quickstart your DAO Community journey [here]().
+
 ## Governance Structure
 
 This document describes the formal governance structure of the DAO Community. For the purpose of this document, “DAO-Community” includes all repositories in the [DAO Community GitHub organization](https://github.com/DAO-Community).
