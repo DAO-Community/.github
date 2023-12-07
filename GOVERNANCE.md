@@ -127,12 +127,22 @@ If the RFC passed the criteria, then the RFC will be closed with a comment of `N
 ### Onboarding
 
 Members must read and learn from the sites below:
+
 - [Open Source Guides](https://opensource.guide)
+  - [Building Welcoming Communities](https://opensource.guide/building-community/)
+  - [Leadership and Governance](https://opensource.guide/leadership-and-governance/)
+  - [Your Code of Conduct](https://opensource.guide/code-of-conduct/)
+  - [The Legal Side of Open Source](https://opensource.guide/legal/)
 - [GitHub Community](https://github.com/community)
 - [The Linux Foundation: Open Source Guides](https://www.linuxfoundation.org/resources/open-source-guides)
 - [OSS Watch](http://oss-watch.ac.uk/)
+  - Participating in Open Source Communities
+  - Improving Your Open Source Development Impact
+  - Building Leadership in an Open Source Community
+  - Measuring Your Open Source Program’s Success
 - [GitHub Docs](https://docs.github.com/en)
 - [GitHub Skills](https://skills.github.com/)
+
 
 ## Advisory Council
 [@advisory_council](https://github.com/orgs/DAO-Community/teams/advisory_council)
