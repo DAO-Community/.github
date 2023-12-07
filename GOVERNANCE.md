@@ -125,7 +125,8 @@ If the RFC passed the criteria, then the RFC will be closed with a comment of `N
 Members must read and learn from the sites below:
 - [Open Source Guides](https://opensource.guide)
 - [GitHub Community](https://github.com/community)
-
+- [The Linux Foundation: Open Source Guides](https://www.linuxfoundation.org/resources/open-source-guides)
+- [OSS Watch](http://oss-watch.ac.uk/)
 - [GitHub Docs](https://docs.github.com/en)
 - [GitHub Skills](https://skills.github.com/)
 
