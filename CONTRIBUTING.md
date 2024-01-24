@@ -27,6 +27,8 @@ Onboarding and Contributing Guidelines.
 
 ## Tutorial, Standards, Conventions, & Practices
 
+Optional: See [post](https://github.blog/2024-01-08-github-certifications-are-generally-available/).
+
 ---
 
 # Discord Community Server
