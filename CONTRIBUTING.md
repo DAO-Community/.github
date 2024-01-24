@@ -2,13 +2,13 @@
 
 Onboarding and Contributing Guidelines.
 
-ToC:
-- First Contributions
-- Git Initiative (Org, Standards, Practices)
-- Discord Community Server
-- Surveys & Reports
-- Governance
-- Branding
+# TOC:
+- [First Contributions](#first-contributions)
+- [Git Initiative](#git-initiative)
+- [Discord Community Server](#discord-community-server)
+- [Surveys & Reports](#surveys--reports)
+- [Governance](#governance)
+- [Branding](#branding)
 
 ---
 
@@ -19,14 +19,19 @@ ToC:
 
 ---
 
-# Git Initiative (Org, Standards, Practices)
+# Git Initiative
+
+## GitHub Organization Setup
   - [GitHub: DAO-Community](https://github.com/DAO-Community)
   - [GitHub: DAO-COmmunity/Discussions/2](https://github.com/orgs/DAO-Community/discussions/2)
+
+## Tutorial, Standards, Conventions, & Practices
 
 ---
 
 # Discord Community Server
-  - [Invite Link](https://discord.gg/kgwTF4JV)
+  - Ask a member for Invite Link
+  - #TODO : Setting up Invite Link w/ No Expiry and Temporary Membership.
 
 ---
 
@@ -38,12 +43,15 @@ ToC:
 # Governance
   - [GitHub: DAO-Community/.github/GOVERNANCE.md](https://github.com/DAO-Community/.github/blob/dev/GOVERNANCE.md)
   - [Linux Foundation: Open Source Guides](https://www.linuxfoundation.org/resources/open-source-guides)
-    - Most important articles:
+    Most important articles:
       - Participating in Open Source Communities
       - Improving Your Open Source Development Impact
       - Building Leadership in an Open Source Community
       - Measuring Your Open Source Program’s Success
-
+  - [GitHub: Community](https://github.com/community)
+  - [GitHub: Docs](https://docs.github.com/en)
+  - [Open Source Guides](https://opensource.guide)
+  - [GitHub: Skills](https://skills.github.com/)
 ---
 
 # Branding
